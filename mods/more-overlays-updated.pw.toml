@@ -1,8 +1,6 @@
 side = "client"
 name = "More Overlays Updated"
 filename = "moreoverlays-1.23.2-mc1.21-neoforge.jar"
-side = "client"
-
 [download]
 url = "https://cdn.modrinth.com/data/Thy5Pqut/versions/W4urzLJ7/moreoverlays-1.23.2-mc1.21-neoforge.jar"
 hash-format = "sha512"
@@ -17,3 +15,8 @@ version = "W4urzLJ7"
 optional = true
 default = false
 
+
+
+[option]
+optional = true
+default = false

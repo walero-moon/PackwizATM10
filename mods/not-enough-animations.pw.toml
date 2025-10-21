@@ -1,8 +1,6 @@
 side = "client"
 name = "Not Enough Animations"
 filename = "notenoughanimations-neoforge-1.10.6-mc1.21.1.jar"
-side = "client"
-
 [download]
 url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/1o1ia1vh/notenoughanimations-neoforge-1.10.6-mc1.21.1.jar"
 hash-format = "sha512"
@@ -17,3 +15,8 @@ version = "1o1ia1vh"
 optional = true
 default = false
 
+
+
+[option]
+optional = true
+default = false

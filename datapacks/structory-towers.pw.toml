@@ -1,8 +1,6 @@
 side = "server"
 name = "Structory: Towers"
 filename = "Structory_Towers_1.21.x_v1.0.14.jar"
-side = "both"
-
 [download]
 url = "https://cdn.modrinth.com/data/j3FONRYr/versions/4QAbnyHv/Structory_Towers_1.21.x_v1.0.14.jar"
 hash-format = "sha512"
@@ -12,4 +10,5 @@ hash = "7a1e728223a11c7d6808402f69a298ab1f1bf59c0aa3093424702fdc5635181a30c18f9f
 [update.modrinth]
 mod-id = "j3FONRYr"
 version = "4QAbnyHv"
+
 

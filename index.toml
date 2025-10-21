@@ -3469,12 +3469,12 @@ hash = "a393ff2854dfe4891300b7737707ebd94bf9a74a03bb725caf27c5ebeb501fa3"
 
 [[files]]
 file = "datapacks/structory-towers.pw.toml"
-hash = "60f96fbe596a3e887373865c65fb71152803c6a3ec10e923a8ee572e3219d939"
+hash = "a001ac0cbbc5a4016130ff4b6aa4318dc5fb0a573a7d614befad65a87c4ee038"
 metafile = true
 
 [[files]]
 file = "datapacks/structory.pw.toml"
-hash = "5ed5793f11b9eafa464944abd2c7943fd7edebd515b0a0abb97660e64b978bec"
+hash = "c1fabd2191b694a0bb6b72d128f70610065bda35c8b043ca56ce5a2d3b4116fb"
 metafile = true
 
 [[files]]
@@ -3739,7 +3739,7 @@ metafile = true
 
 [[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
-hash = "6c2dc5423cf7421ca24c1873c1d5818325c59b93a5649894139aaec1dca6cea9"
+hash = "d4400108f262f2e13e947f582953915e919c9b29e87205bc6827af76028397b7"
 metafile = true
 
 [[files]]
@@ -4518,7 +4518,7 @@ metafile = true
 
 [[files]]
 file = "mods/im-fast.pw.toml"
-hash = "3f2d2dcb9837e99750e4ba5a5ade4cac2664295c712c7836e90f39068d819c54"
+hash = "3133983f4cf53fe8f9c83b9848319974f91db9b004cf46eca6084dd608511d5f"
 metafile = true
 
 [[files]]
@@ -5018,7 +5018,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-overlays-updated.pw.toml"
-hash = "c09d6edc1452177998212fe4e0a9a382988d750a487df17426dbed63953b697d"
+hash = "685674d073c319647725f2684e7c5ba83686b0680d15c3ae4740c0beff042f51"
 metafile = true
 
 [[files]]
@@ -5098,7 +5098,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "714f142054422f84c3cf04b1600cbf16c7ba23f76f14acc14c5e56c440ed35c4"
+hash = "f7f10dac4d0b2c9204052835188a482236cba5a442fbb855a22953d56e1a7914"
 metafile = true
 
 [[files]]
