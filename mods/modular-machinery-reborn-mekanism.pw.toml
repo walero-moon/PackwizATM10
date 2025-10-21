@@ -1,0 +1,13 @@
+name = "Modular Machinery Reborn Mekanism"
+filename = "modular_machinery_reborn_mekanism-1.21.1-2.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4ea9fc7494d2df482937ba18576b3fca67f4ffe0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6394999
+project-id = 1131856
