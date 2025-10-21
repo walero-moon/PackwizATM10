@@ -1,13 +1,19 @@
+side = "client"
 name = "More Overlays Updated"
-filename = "moreoverlays-1.24.2-mc1.21.1-neoforge.jar"
-side = "both"
+filename = "moreoverlays-1.23.2-mc1.21-neoforge.jar"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "21e8bd61c5e146a9574266015d3f64621c2d9e18"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Thy5Pqut/versions/W4urzLJ7/moreoverlays-1.23.2-mc1.21-neoforge.jar"
+hash-format = "sha512"
+hash = "2d69e998cfee7c5ac25a9851042912b215205b9eaabd8afa20988259f05a3d239ee8445ce61e396c6e951b0223e59b456691bb189ce4dd0e5c58efd44bf292f8"
 
 [update]
-[update.curseforge]
-file-id = 6981252
-project-id = 391382
+[update.modrinth]
+mod-id = "Thy5Pqut"
+version = "W4urzLJ7"
+
+[option]
+optional = true
+default = false
+
