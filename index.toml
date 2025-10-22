@@ -4457,7 +4457,7 @@ metafile = true
 
 [[files]]
 file = "mods/guideme.pw.toml"
-hash = "aee98cc4dacd56f788b7a7f024943e5a3ccf83bfe37d1104ea9d05b508d74369"
+hash = "b8aee2057378b6f054f94550684d9a3f41ded7cc47794c8b01c107c8c2115ceb"
 metafile = true
 
 [[files]]
@@ -4937,7 +4937,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-industrialization.pw.toml"
-hash = "9ed506f88afd2c464196d192f149466535ef395b6b60978ba5701b0c3a92a856"
+hash = "978d4863d70c5f91d77e2edccb7cdf0131d096ce07e9db8bacf850dd8600b10a"
 metafile = true
 
 [[files]]
