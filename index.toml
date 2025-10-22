@@ -5522,7 +5522,7 @@ metafile = true
 
 [[files]]
 file = "mods/smithing-template-viewer.pw.toml"
-hash = "d57e8161eb21eaa4a1d3deac98926afda0f4d01cf891deee934868d1cac5dd74"
+hash = "382d046069eefe23726209ccc23ef5916b0ce9fb4650a5256d4cd516f74d0790"
 metafile = true
 
 [[files]]
