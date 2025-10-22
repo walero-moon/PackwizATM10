@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".nojekyll"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/Advancedperipherals/world.toml"
 hash = "34ff18c33cba8ca1fc0eb28c46caccc44aab846450d92540f5c692fbcbb3514b"
 
@@ -3454,12 +3458,12 @@ hash = "a393ff2854dfe4891300b7737707ebd94bf9a74a03bb725caf27c5ebeb501fa3"
 
 [[files]]
 file = "datapacks/structory-towers.pw.toml"
-hash = "a001ac0cbbc5a4016130ff4b6aa4318dc5fb0a573a7d614befad65a87c4ee038"
+hash = "8d65834f80151f3b079f0214ae71ca4f68582c6a7d5d3fc89ee91b97ed6cf28e"
 metafile = true
 
 [[files]]
 file = "datapacks/structory.pw.toml"
-hash = "c1fabd2191b694a0bb6b72d128f70610065bda35c8b043ca56ce5a2d3b4116fb"
+hash = "8b52699e9aa36abb4f81038212cec339aa301f401a6306101566437a1f2e0a31"
 metafile = true
 
 [[files]]
@@ -4503,7 +4507,7 @@ metafile = true
 
 [[files]]
 file = "mods/im-fast.pw.toml"
-hash = "3133983f4cf53fe8f9c83b9848319974f91db9b004cf46eca6084dd608511d5f"
+hash = "3eae86101de743bb9adb23aa23c673de0e40c432b6aaa332732998c70dbdbc05"
 metafile = true
 
 [[files]]
