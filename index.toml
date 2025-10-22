@@ -1,21 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "bsl-shaders.pw.toml"
-hash = "8a3236628ee31b091f6e58d518ebff476a6abc02835f3e3b3fce62f62bbed415"
-metafile = true
-
-[[files]]
-file = "complementary-reimagined.pw.toml"
-hash = "91a77a3f031bdf1ac4de9d1be6925704e85dfd8895bad7b717fc2ec1d50d9114"
-metafile = true
-
-[[files]]
-file = "complementary-unbound.pw.toml"
-hash = "70db0963bd7131d0cd9a90b0c38bb84b709034e2cec004a675b4bff1f058102d"
-metafile = true
-
-[[files]]
 file = "config/Advancedperipherals/world.toml"
 hash = "34ff18c33cba8ca1fc0eb28c46caccc44aab846450d92540f5c692fbcbb3514b"
 
@@ -3478,11 +3463,6 @@ hash = "c1fabd2191b694a0bb6b72d128f70610065bda35c8b043ca56ce5a2d3b4116fb"
 metafile = true
 
 [[files]]
-file = "makeup-ultra-fast-shader.pw.toml"
-hash = "f81fc89551afe3236249a72837bc222769ac6e944554e126eae7ab99f0587018"
-metafile = true
-
-[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "0c31f109b6c4dca94a153fbdd827bbd5f96149fd5c7863ba0ba41fcab801afe0"
 metafile = true
@@ -4099,6 +4079,11 @@ metafile = true
 [[files]]
 file = "mods/dark-mode-everywhere.pw.toml"
 hash = "d49b12a00673ee8de5b5df8ec5956bf81da551eff4d2a38b230a089b765f2c42"
+metafile = true
+
+[[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "a832de493f31251061455e1a473471d115ff875400ddeae78e35ae8c7868c3c1"
 metafile = true
 
 [[files]]
@@ -5018,7 +5003,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-overlays-updated.pw.toml"
-hash = "685674d073c319647725f2684e7c5ba83686b0680d15c3ae4740c0beff042f51"
+hash = "58aa67f8ceb2945bf967e3cdca55bfeefb0af79ef3ddf85cc3e3323dcc30a295"
 metafile = true
 
 [[files]]
@@ -5098,7 +5083,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "f7f10dac4d0b2c9204052835188a482236cba5a442fbb855a22953d56e1a7914"
+hash = "66b6c162971ff273dd912d812fb3a23c35e1174097dc2c93132369da10599b6e"
 metafile = true
 
 [[files]]
@@ -5889,4 +5874,24 @@ metafile = true
 [[files]]
 file = "mods/zerocore.pw.toml"
 hash = "fedd9a7de67d6392f2a1629050334d1f7c7d79a2d1b2bc12f1041a6826f6d8f4"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "8a3236628ee31b091f6e58d518ebff476a6abc02835f3e3b3fce62f62bbed415"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "91a77a3f031bdf1ac4de9d1be6925704e85dfd8895bad7b717fc2ec1d50d9114"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "70db0963bd7131d0cd9a90b0c38bb84b709034e2cec004a675b4bff1f058102d"
+metafile = true
+
+[[files]]
+file = "shaderpacks/makeup-ultra-fast-shader.pw.toml"
+hash = "f81fc89551afe3236249a72837bc222769ac6e944554e126eae7ab99f0587018"
 metafile = true
