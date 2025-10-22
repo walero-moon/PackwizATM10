@@ -5,6 +5,18 @@ file = ".nojekyll"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "_compare-output/cf_mods.txt"
+hash = "af839360fda2aa9973386c3a9b80bebd43c7569b4cff9175e894bda706e0e589"
+
+[[files]]
+file = "_compare-output/extra_in_packwiz.txt"
+hash = "6bfa8c912a4f0f9600bf2a6b7d33555cc49673bbbe84d56a287e2d3836afdee3"
+
+[[files]]
+file = "_compare-output/packwiz_mods.txt"
+hash = "27151ef51e976be2dad99390e008aee54fa21234697fdb79a34ea6ce0f6d070d"
+
+[[files]]
 file = "config/Advancedperipherals/world.toml"
 hash = "e163383ee02046958f4f3e0f7dd420d06d5ef61974a2510475c9a39e37e83dd3"
 
