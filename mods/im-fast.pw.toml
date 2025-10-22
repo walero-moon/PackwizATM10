@@ -1,4 +1,4 @@
-side = "server"
+side = "both"
 name = "I'm Fast"
 filename = "imfast-NEOFORGE-1.0.2.jar"
 [download]
