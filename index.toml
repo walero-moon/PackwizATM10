@@ -3234,7 +3234,7 @@ metafile = true
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
-hash = "db026135a8a23b2b660ebbfa8a85d06b26249305b2612bc2fab930e252100890"
+hash = "3d8f918c52e27d4c640f78c67c0a51a2ddbe4e3703c149e8ed9461f43bd5fedd"
 metafile = true
 
 [[files]]
@@ -3279,7 +3279,7 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "3c46e566cd75ce24b37f50a6fcb1e6f8fe6ec6f1ca2b124254974a5d7ff33eba"
+hash = "18cf2b63d293ba0738c1073690fbd2c62305b161f76d346a551a66a9bbf8af32"
 metafile = true
 
 [[files]]
@@ -3524,7 +3524,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "51c63a6383161adeba087eeac266cd4a5147221441aa875d730220613a2b2ea2"
+hash = "f56d22024434828a008f8558a30a6d765e61a051550e32dc53960053716c0fd1"
 metafile = true
 
 [[files]]
@@ -3584,6 +3584,11 @@ metafile = true
 [[files]]
 file = "mods/chunky-pregenerator-forge.pw.toml"
 hash = "af7c44b70982a0fce457e7274ae4f3f4b6d11b6f5d012f525c6aecfd1872418c"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
 metafile = true
 
 [[files]]
@@ -3817,6 +3822,11 @@ hash = "a35abc9918ab470587cb18f05a37918a921ec0ae59f1c256ebec3c20d819904e"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "fac02c856d08d69e8453792ac4ac9616f747ed1a2d5602c07cc08d0d77fccc82"
+metafile = true
+
+[[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "ea9cbc526f22ba2faf653abc1b402643d3f211e86af347627311430faf48327f"
 metafile = true
@@ -3898,7 +3908,7 @@ metafile = true
 
 [[files]]
 file = "mods/eternal-starlight.pw.toml"
-hash = "1786ae28ccef56b2c1550c5ab4225c8f816f3fd215df46816289dd941d197d79"
+hash = "2f9b497ad80e0b20ad1a5cfe8679214bef119eb4172a6a02f6b71f273d721ea3"
 metafile = true
 
 [[files]]
@@ -3999,6 +4009,11 @@ metafile = true
 [[files]]
 file = "mods/fastworkbench.pw.toml"
 hash = "0d13e70b59a7f4623237f6b03e22368235d123030f36f18312fd20a8f7d2e459"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
 metafile = true
 
 [[files]]
@@ -4648,7 +4663,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "252659cbaad2f31f723bf31d8ede250dc4b9c821c469f47b77d74e23864b4b45"
+hash = "a9593968393bae08257ba9aae887ad60fc49991f676b637006b2bcd89907f09a"
 metafile = true
 
 [[files]]
@@ -4784,6 +4799,11 @@ metafile = true
 [[files]]
 file = "mods/no-villager-death-messages.pw.toml"
 hash = "1e2775ddbb374398b9bc96af25d64f29db816e96d869ab2be92e9c33540dd583"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "d424a9260ef51bc102e56f0423d91dfabb739ccca8a86eb1c450ea631b739280"
 metafile = true
 
 [[files]]
@@ -5268,7 +5288,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "6d9eaf43c14c66465e87bf03cc5cb5ecef57b3f2e8063c52f6332d33689d30be"
+hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
 
 [[files]]
