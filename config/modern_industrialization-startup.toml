@@ -11,16 +11,14 @@ defaultIndustrialistTrades = true
 [compat]
 	#Enable bidirectional energy compatibility with NeoForge's energy system.
 	#We recommend leaving this to false unless the other mods have been balanced accordingly.
-	bidirectionalEnergyCompat = false
+	bidirectionalEnergyCompat = true
 	#Enable the Applied Energistics 2 integration, if present.
 	ae2Integration = true
 	#Enable the FTB Quests integration, if present.
-	ftbQuestsIntegration = true
-	#Enable the Almost Unified integration, if present.
-	almostUnifiedIntegration = true
+	ftbQuestsIntegration = false
 
 [datagen]
 	#Run MI runtime datagen on startup.
 	datagenOnStartup = false
 	#Additionally load resources in modern_industrialization/generated_resources.
-	loadRuntimeGeneratedResources = false
+	loadRuntimeGeneratedResources = true

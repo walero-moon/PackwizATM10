@@ -11,13 +11,11 @@
 	[general.general]
 		#The base energy usage for the crafting interface per crafting job being processed.
 		interfaceCraftingBaseConsumption = 5
-		#The base energy usage for the attuned crafting interface per crafting job being processed.
-		interfaceCraftingAttunedBaseConsumption = 10
 		#The base energy usage for the crafting writer.
 		craftingWriterBaseConsumption = 1
 
 	[core.general]
 		#If an anonymous mod startup analytics request may be sent to our analytics service.
-		analytics = true
+		analytics = false
 		#If the version checker should be enabled.
-		versionChecker = true
+		versionChecker = false

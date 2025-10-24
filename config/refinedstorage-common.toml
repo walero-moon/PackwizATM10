@@ -1,14 +1,11 @@
 #Allowed Values: STRETCH, SMALL, MEDIUM, LARGE, EXTRA_LARGE
 screenSize = "STRETCH"
 smoothScrolling = true
-debug = false
 # Default: 256
 # Range: 3 ~ 256
 maxRowsStretch = 256
 searchBoxAutoSelected = false
 autocraftingNotification = true
-#Allowed Values: LIST, TREE
-autocraftingPreviewStyle = "LIST"
 
 [cable]
 	# Default: 0
@@ -18,7 +15,7 @@ autocraftingPreviewStyle = "LIST"
 [controller]
 	# Default: 1000
 	# Range: 0 ~ 9223372036854775807
-	energyCapacity = 1000
+	energyCapacity = 50000
 
 [diskDrive]
 	# Default: 10
