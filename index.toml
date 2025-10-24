@@ -1753,6 +1753,2550 @@ file = "config/ftbquests-client.snbt"
 hash = "6359364663ea3c418cacb79500bb529d4988ce1089d6e73ed5b2eef526f2e6d1"
 
 [[files]]
+file = "config/ftbquests/quests/README.md"
+hash = "d0e63efe1171561178387eea0c21960708ea4dd63e20d90c77b1c9697191b63f"
+
+[[files]]
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "72fb912b25e10631f31f6133c99fe31e558ded14db7d7ab19f13a88177ac030d"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/achapter_2r_6the_atm_star.snbt"
+hash = "da190c407cce1a9dcf2c31f9f179ee564e71b1fcab0f34f79880d0bece197cf2"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/allthemodium.snbt"
+hash = "3a3aab0d12532fcd9ff888112de3dd1807b47f9f8babb750ec7fec2dfddc629b"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/apotheosis_2.snbt"
+hash = "960f06a41de36c6d30800439270ecd3bc8ea0488e9ffbda41789af0adf5366bf"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/apothic_enchanting.snbt"
+hash = "d392266e15dced82b83b197a3ff42e61f0aa59bd125c6d2d3c7db893d49419c7"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/applied_energistics_2.snbt"
+hash = "0a1d4477292d10b26d1c3eb9d280e7d63b2443a3064b51b12e2ad95155923a28"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/ars_nouveau.snbt"
+hash = "9cefc0224330dee77a983380ca53e4fa206fe2c3a662f951ac56014489db3740"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/artifacts.snbt"
+hash = "31bfe4b64034e82ad3f3a4401ffac189e15e6e6f1228721554ccdbdd02fdac6c"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/basic_armor.snbt"
+hash = "a018cbc05568e61539a7c8e0122d0b3fe63183f0b34ee7f31593de9eaed3d905"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/basic_logistics.snbt"
+hash = "59dbc4d7a75886d0f8bd729498892eaeab2096906605e6db2c20d5a3bc97ec9d"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/basic_power.snbt"
+hash = "29b8a8dc3f15beacc37379bbe50f67445aa4ccbf7bcef28ed62a9857c1a54b34"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/basic_tools.snbt"
+hash = "782af96854d9d5ed29ae774e6570de8bb0114dba8dae239d9d83eb1b18f9fc69"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/bounty_board.snbt"
+hash = "f576c855d0c623892d9b880f637e319abe45b8d86f68992dab21b4018be7f698"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/building_tips.snbt"
+hash = "350ba25c161371c408099145a82d4ea9190963836a46dc2a170b17327e7ee882"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/bumblezone.snbt"
+hash = "5a394bc13d5a59e43b9ea93af7a3da376a303050eb762dd36c1bb419710556b4"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/cataclysm.snbt"
+hash = "5e49373b399d5ba5f3aa4dcb1e76c899d1bca22064a7f0ada8e3fa8f0507f828"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/chapter_2_the_star.snbt"
+hash = "f841ad31a6b3ad595c543e0a64be30657cd8cfbb3cf033270e82b832c3d15fbe"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/create.snbt"
+hash = "34af1ae47c8b53f961505147ed8ec1b6107bc662e86aad6ca238adc5fdea71d6"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/deeper_and_darker.snbt"
+hash = "6b6efba314f30c09cc9c4b2f16d3f7c5c0c0aa0c12c5b55afbf0fb2de67a6f89"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/draconic_evolution.snbt"
+hash = "43744b54cb952ce131935473312851413b2515cb79faf9cefe509046da5d59b0"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/elmystical_agriculturerr.snbt"
+hash = "8475cf48d6ac264523a73490cd2408147fb73a2c2fbe2f11fa3ff106b28f9a81"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/eternal_starlight.snbt"
+hash = "3045035e74384dde869ef3b231a3cebe02c0f31bb544fc2bf1400960a521d1ed"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/evilcraft.snbt"
+hash = "3b0a9ec62693f55a04f2b5f04c9466120885edef226ae987a7f674439ca4b7de"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/extreme_reactors.snbt"
+hash = "6ff4edf5c8c24c8cb8ffd3fb4d88cf6d7431e79f186668fa9d2f2b7fe2a56100"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/food_and_farming.snbt"
+hash = "7daa44817120ce699fa810acb801a2af93de04f1645def88589af0023a1f2293"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/forbidden__arcanus.snbt"
+hash = "66f977af41dc63a016ff1584528708399ffb30d660d644f96425e1689a4f004c"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/generators.snbt"
+hash = "7622f5932679d40d0560205c400e407165bd7c4eb50a5eb0a4e7c8becd54c6db"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/hostile_neural_networks.snbt"
+hash = "30ef71353434d3a6453e41af6a8b80f8ab1468b061c86a4742a7ac4cab7d39dc"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/ice__fire.snbt"
+hash = "9ac2225d68dc7990999507927a80dafed5f927d71850a78350ed192eb005a092"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/immersive_engineering.snbt"
+hash = "fbec362ae58e5a352b2789ad9e3a91a194882ee8365517e074ba0f153536eca1"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/industrial_foregoing.snbt"
+hash = "e7ce8e90305d1395633bef8c7d94edf75709c2a6123f1e70c046e18d2f53e489"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/integrated_dynamics.snbt"
+hash = "232d6ed55911ce8b8b5665e7c3d0932d3287c884f531f3ca35123c7b40f16c0c"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/iron_spells_and_spellbooks.snbt"
+hash = "7c51b05eb34783cf0ce9165fc55713a35cd2b584704ce21830bb858ced3f3a02"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/justdirethings.snbt"
+hash = "35b2ce8e6bc9e1a50873b813b8d5430088b086a66e23daa007b951dff8921005"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/mahou_tsukai.snbt"
+hash = "4a1be34fb62d51af26bb49936fc441376d4bb9436f0177d0804dea170e397d9d"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/mainquestline_part_1.snbt"
+hash = "8547e22ad396d527616345f3ca93dd144950444cb41700fa44d12eadbc5aa199"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/mekanism.snbt"
+hash = "271ec13f8285feecf1bdd574e5c2d2120ad553e26e878b7cc5de80150bc2c673"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/mekanism_reactors.snbt"
+hash = "5de92e9c4772b10bc86ec7f13f0cf1b24f93926a4a2e05521a4e61c7ee1a91fb"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/mi_digital.snbt"
+hash = "c839df69d63e6b525f9c1d5255be197a4c2ca56c9eae256c7489bbda80b4b5e2"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/mi_electric.snbt"
+hash = "c2e7c4bd0750226bfff20bb5d5d5a8985f25c80d972d26696c39fcf6d05edfde"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/mi_endgame.snbt"
+hash = "f9e726236d3b5b86f213ddf8e91a7b0ee4f9aee0920b34af9996f1875d29a24c"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/mi_steam.snbt"
+hash = "64a32323f393238e5ae4682048080b9ce744cbcc081a6a72e4f32f0471986e4e"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/modular_router.snbt"
+hash = "d45d5612ef6cc37b4c52d341d1c15a293c756bf64b65ba101769335ce58af682"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/natures_aura.snbt"
+hash = "d3264f7b576ed3042d384bd4aa666990d0b089684fe82ada7a840e27e6b72cc8"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/occultism.snbt"
+hash = "ccbed1f966009cf3cde8da643a5bba32c260dbcbac8ddf84a76d90a4fe21c712"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/oritech.snbt"
+hash = "d9cd9625b130f4c6fddfb4bb0683c008d6f3393acb2b11c4ff5acc8d40bc6215"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/pneumaticcraft.snbt"
+hash = "c5dfd2500641122e6350620407ca551675e09d890599e4f0451b8bb77b98addf"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/powah.snbt"
+hash = "dc70024110cb4ac84124481baa236c9767e40b7bbcac2a40ef0ad1bbabf702a4"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/productive_bees.snbt"
+hash = "ae96030ab132db308e215098ff89e95bef53e85e1de946ff0de5bbb8bd99337f"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/productive_trees.snbt"
+hash = "4a9cfa19c2d1ff79e4e849a6c81ad674d3fe955f4f1ec3db14ed2e06eedc46e8"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/pylons.snbt"
+hash = "a0258a6682753d7969d847c0cde1a002a320ad7cb43826be7c9ac077d2bb114f"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/railcraft.snbt"
+hash = "6f78b1f702526cd08f68e51615429606dc14b5a89b90373f235515407d6b4722"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/refined_storage.snbt"
+hash = "4db5aa9ef5e12a1009267d030c41ae133456f043b2f1306f6c8453a2134dd7b2"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/relics.snbt"
+hash = "2706ab6dd498eb31016434b5cca98001c7e0f99b6b0a6309dbf7149ae25826a9"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/silent_gear.snbt"
+hash = "629bad3e41dfdf99a3cddb8ab84d3395882ebc344bf4d9f3e1b634deea3bb41b"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/storage.snbt"
+hash = "4cf849f22a13697bf55289c77856725694beb9d413c8beae714e8273bf9bee02"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/theurgy.snbt"
+hash = "d5f23e68a47281fd95a36c649735e3a032f91e365a8cff83ab635e4ad70f6db8"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/tips_and_tricks.snbt"
+hash = "f32bb32c4865a27e5930262878755b4b89644d2bc0b5e5136013037c3d18f56c"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/twilight_forest.snbt"
+hash = "cee953fc475a996a8c2c340df11514a432933a5bfe1a152d2e8ef938eb94143b"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/undergarden.snbt"
+hash = "54b48bc4bb1ebc271b5a6f5e1ff3a1305cdf798bfe1a308ba5badb696070b2d5"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/welcome.snbt"
+hash = "38d53459a9066509dfc74ab25d0e2bbef7177072318273b97061150498934bbe"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/xycraft.snbt"
+hash = "275af9c78636a4e1eaacf6ee0ce0d0e3a774d2da0918f8c64c4ce477ed08dabd"
+
+[[files]]
+file = "config/ftbquests/quests/data.snbt"
+hash = "1aa39fd1e3a755a9a93afd99269043cd27c21828d3bf08f68d1e8f8cf633c91f"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapter.snbt"
+hash = "2aa2e38d3cd5500d831a3f9f20e88334f6259b927ea2709de6f5d68990958d9e"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapter_group.snbt"
+hash = "ebcb21f28d539548b230846d12c5c0f142f6ee6922c0ee94ec972d0a9879f19b"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/achapter_2r_6the_atm_star.snbt"
+hash = "8e79e7cdebc30179fbedf0c36b590662c730bb25ba8f0dc8685c72ac134bb168"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/allthemodium.snbt"
+hash = "c90a40204d80dde801cd6826913656a8b61ba34b34932e23669cbccbc4f76207"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/apotheosis_2.snbt"
+hash = "682ca97b6f8b1dde9e79ca770729210814d08fb7d080e80c50215be07ee374f5"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/apothic_enchanting.snbt"
+hash = "fe2a0275f13dfbfab4d603ee899cc19fcee9364cf36751519cf4daada6080cc3"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/applied_energistics_2.snbt"
+hash = "f92cb951a2e86ce85d1bc4b5514caf4d752d59d581cca64c50bf8a82e4d1ab9d"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/ars_nouveau.snbt"
+hash = "60beacccd626db6f613ebf3aa479189efd5e82d7ea059ca96ccd18f16bfb2445"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/artifacts.snbt"
+hash = "c8d5509f1f9e70a0a872e7fe4f67b5f42b1b6c988f2a2eb22abe1e9de863aa5e"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/basic_armor.snbt"
+hash = "a0648fbd0095ebe803a7ae884a9589aae990a125f6bfe87c66df3c7dc2a9bc11"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/basic_logistics.snbt"
+hash = "2a8da25c5dbb5e8ccc29350b0590e6c4d0c70715634ac026d1b27df771e47f1c"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/basic_power.snbt"
+hash = "1c7251fbac41b98abbf8008298d45ab9a17fd16c1e75596b1f2fc504ec627df9"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/basic_tools.snbt"
+hash = "6b6dff8782deb573fc3f43943be8355d4166523bca57a3abb3dd7e7661f64c6f"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/bounty_board.snbt"
+hash = "b9517affa14fa9cfceb8d2a44168d193bb97d35e5fc86eac5f2c9526b754aee2"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/building_tips.snbt"
+hash = "123544ccd2559ea0a6d9931b36ba971d1afc4e9ac76b412fc633df8bad5318c9"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/bumblezone.snbt"
+hash = "154017840077a294df5509ad46a689dd3ba898d8e59515d3610d17c9f419e026"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/cataclysm.snbt"
+hash = "b08684f69248389c7bb4b0f6d1edb8836044224e408d1ed16154660f68f15aff"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/chapter_2_the_star.snbt"
+hash = "5456207197bfa64d71c961e6d917406366be2abf63d4c271308862c3650fe6c1"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/create.snbt"
+hash = "e37e184098a1ada79dab4b2c3150f77a6a554301f2f5646cc16396384e96ffb8"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/deeper_and_darker.snbt"
+hash = "3d73f404634ecece6ba03a89dd4b1aea378aed8d16074da7232bb8e0a96fcecd"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/draconic_evolution.snbt"
+hash = "ccd795ab9dab50957d7eaa5d3dc1fee04a41c5ba650b5c775227ee0019d94a2d"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/elmystical_agriculturerr.snbt"
+hash = "0cffcde00bc2f86b06ca3a925e1af996378440a394c0984790282b8a7435e723"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/eternal_starlight.snbt"
+hash = "77bdbcbe48f2359bec34e409aa98468256a1e915e0a082703260ed2419518f62"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/evilcraft.snbt"
+hash = "490678e6ad36c7086722e3a2a14fb49420a821aa6754433d7de86821468b3481"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/extreme_reactors.snbt"
+hash = "3973f72edcd0df044516f4ebbd1642149694f845e3849ced79a79875b028f074"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/food_and_farming.snbt"
+hash = "7a863652b4de69a57a504357381370d0b0f3bb39d57cdd9d66de100bbd8bd9e2"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/forbidden__arcanus.snbt"
+hash = "0e3bec11889fb28cfb0f658ea047d7e83103e56fc570a41112bb2cd661761b0a"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/generators.snbt"
+hash = "47fcb3b053b0c6e39e9186f65ab4a9f4946c5d1e83f8cc144c25944b9706a3ec"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/hostile_neural_networks.snbt"
+hash = "a40cfc75713f17e174893d38dcb4821230d2a1259a40854094097afb1696c485"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/ice__fire.snbt"
+hash = "6865b92c606561309b5835facd7f9c035e004d4dc38b4fcf1aa713049335bbf4"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/immersive_engineering.snbt"
+hash = "8eebb139aad0f5b201d80120c20ca3f21a2e799af02606801de23423405c1ac2"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/industrial_foregoing.snbt"
+hash = "bf38aeac501c8abb8ee328f7c2d7778d6c4b8e7bf5d2488ea8877d1bf9b40f10"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/integrated_dynamics.snbt"
+hash = "9af4f5f1841be7ecda0a8d86aa2c4b5608f2486fe165eda132269d75d410bd3c"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/iron_spells_and_spellbooks.snbt"
+hash = "3707a85badaf43b9e8b7715256b56f3c23d91d3a1b8ec42068f65f0ae52eba08"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/justdirethings.snbt"
+hash = "e35cf3b268f49a9bedf6ff41ae2718e68065f1808af15192ba81583dfa35c826"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/mahou_tsukai.snbt"
+hash = "706f32975f288a6c35c5f5a379a41bf73e1d66e92b04c3d6b93f04fa8a2cf898"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/mainquestline_part_1.snbt"
+hash = "2cdb8a75845eb0a99a41427865657dd311489e69fc6364162b1273fc5262db93"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/mekanism.snbt"
+hash = "4863b45cf5a8108fa0998cc3fdd3ccb4e0f9a2b96367aff94eddcf577e146bcf"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/mekanism_reactors.snbt"
+hash = "d9ad96d0b96ed023ae35398d06c35b00a6ab93ba171e56a297de60a206ac33db"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/mi_digital.snbt"
+hash = "de7b13c12b19a6cbf888c895b12f87346943d915707b6b711c1ccd2fd331b48c"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/mi_electric.snbt"
+hash = "b7ca44cc65dc682a91a97d2f378c7b9e2a385a4ccc0bf29b6e3544d0226b5e3d"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/mi_endgame.snbt"
+hash = "101ad45606a0af72e5e68c17ec5da9ce919bd5700919acb826394f2c4401f42e"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/mi_steam.snbt"
+hash = "e9a73d2f912bf15576c5217a3ea342920d7b63ce2f2e995cbc958e30888926d2"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/modular_router.snbt"
+hash = "df4a9f0baf04fb1fb76ac0e04842ded2121461f353a09fef13a5c441e48c0b94"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/natures_aura.snbt"
+hash = "1635bad6953c0d98cfa9d9cef2066d436bf44156fa717cf4caf18f83f53ddf3d"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/occultism.snbt"
+hash = "9bc1becdc3270cb73b7947df1424dcf6ab9ad7b1fa01778715a50114b52dd0b4"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/oritech.snbt"
+hash = "b3cd8692c98fe72de485987fd218156a6782a20508ec2c70c9d6f8887561d092"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/pneumaticcraft.snbt"
+hash = "6ea8661e4c16c10d9a1c26fde64bd2178669aa878a8517e5726d98cad20063c3"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/powah.snbt"
+hash = "32fc56c4497f50211ff011104e2ffc22e4bc519cecb8b3526514e1158c0bad2c"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/productive_bees.snbt"
+hash = "e2467c6eed300258bfa9178cdc30cee65ffec08a56ca19890c50d4ebd999753a"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/productive_trees.snbt"
+hash = "31e919d42ff4652a2fd2fc85ca07568cda5c477139b4bf5ed84eea56c3d506a5"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/pylons.snbt"
+hash = "65847b2a85a2f8880952d6300d73fa8a7cec2654756b92b2063325367c382250"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/railcraft.snbt"
+hash = "b17e0e4b81e2ed2a4c3bc39726fe2e6be1f05d4e8fcb2dd91b991b597e8e116f"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/refined_storage.snbt"
+hash = "f57abe28480b7317bfd50ecd4bef93fd503a05c139e48369387c59354c18d2df"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/relics.snbt"
+hash = "e049259378df6437cf970c7a8ab5ab01d51f00e4d04b832a2d0ceb32d5027bf1"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/silent_gear.snbt"
+hash = "7d19e479004bb81e1a06969843eb989993df49223e610281ced927e7bf486be3"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/storage.snbt"
+hash = "745a1293911c5c1bbf489476890f264c9e99771bb994223f65607a15f5ad7602"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/theurgy.snbt"
+hash = "8369ede0a07b0e1820dcb505501a1dd7cebb921f8843ddeba43605d2024ae7cd"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/tips_and_tricks.snbt"
+hash = "66c530c0c98ba6fd506fa132d92c63c1e6f4e07e5472cbb846a26e8d62370480"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/twilight_forest.snbt"
+hash = "1e4ba7a24c9f102c8c423bf4fae6b590c1e10f1aac5683a0384efd998d67f95b"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/undergarden.snbt"
+hash = "80846c801af758b05e09339da5e3a6dc83e42ad4828042ff1f490e94abdffd4e"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/welcome.snbt"
+hash = "e8d5836dd4c514a156e2955df69847572f6a4c7994ac4262c29d3798f9e8b256"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/xycraft.snbt"
+hash = "ae66dd18af89a4f7f9e5c3fbe7eb0b5b63dc272c4b1a3cb7e31840bf2c761a62"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/file.snbt"
+hash = "45f6e2392554dee375c09f7941b4be99765cf2a931e317f920ab8be2d59fd85e"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/reward_table.snbt"
+hash = "f97132273fc7226d03dc01331810d24767b5a59aa8862d3d778af382af72bd50"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapter.snbt"
+hash = "ec305e0e0b95f303fd9bc181dfadf34a4d055333a403594ede70287bb59e9bcb"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapter_group.snbt"
+hash = "781c88b703b7b16f7b260cfa061c92f2b86bed8bedb40b54b5de6fe9a2581269"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/achapter_2r_6the_atm_star.snbt"
+hash = "9ff2fe4704525692f060c529ee1d91291a3da3a40bd7ffa34ef1ce5d6498321c"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/allthemodium.snbt"
+hash = "1273c7ee0930c9130e00450c8371c1587bfd8fc6e80b730cc58d57079cfd5bf3"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/apotheosis_2.snbt"
+hash = "bdbac1f42b850096499819d8e9652a95e3d447998aef0721d6a145200ce45fdb"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/apothic_enchanting.snbt"
+hash = "c76fdede11792231ca3eb4706624c96cebf09040d136053c6ce2438a92453511"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/applied_energistics_2.snbt"
+hash = "f759ff10e161db8c79e2338349ac1f55486ec3c0fe868fb564d4e38b6f11b308"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/ars_nouveau.snbt"
+hash = "847537521e83d09dc404734b0a779e91ea57ef8da6246d4643449dc7d1e3076c"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/artifacts.snbt"
+hash = "94ca030468e59259c5f2e56c245a16ac0d3607e0951019c7972762e17b95df45"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/basic_armor.snbt"
+hash = "b18592dfacb0fe0ca9e064067d44a3afb7697b8c60142937183111cbe7b3b9aa"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/basic_logistics.snbt"
+hash = "69225a7a4070f985d0ea8defb48065d88f6cc4d7627f6d6801df67e61a2b2059"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/basic_power.snbt"
+hash = "225647520e4dab93263ede6e700702fb68e54e5269dbe53f2fa4d3631a4370b4"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/basic_tools.snbt"
+hash = "3ba3a9a5290d1ea932ee13fc3be773f19d4695bf00675d2c738c82ca04c4da8b"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/bounty_board.snbt"
+hash = "6d6c8c9544609a956a8e35e79d8f4ed771e1d71413aae07721dedcc3665e552e"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/building_tips.snbt"
+hash = "de8bc5d129b05603831a9d0292b27b694bce2a3f3350405e3f987604adf3e0df"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/bumblezone.snbt"
+hash = "382dffc1536d1d389f4a14e20e620ff424c7a820d0ffacc76a8365f6f48928a9"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/cataclysm.snbt"
+hash = "505be23d465a12dd5493ce2a5b91bd85fe5a3e3fbe65e793ff65a617049f9526"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/chapter_2_the_star.snbt"
+hash = "fe7fc3a7be29112a1b03fc530eef7cb7fa63e79bfb2ce407abe07f7cdc8e9aee"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/create.snbt"
+hash = "ef64cfc2967370465cfcd3c64474bbf94b45a4fa9c5294d2e3a07def7998f601"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/elmystical_agriculturerr.snbt"
+hash = "ca7a7f62ee7db20065cc0abb783f6200091018eb68427068af7e716774d0c544"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/eternal_starlight.snbt"
+hash = "ff1d84c34fcc1b588f3c3684b6dd32d0adb6a19d1cffe5725ba4c209d32f1ef0"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/evilcraft.snbt"
+hash = "d9ee4f1259b61dea332d62b202de14e8a5d196ead606abda8b20c05e77e35b80"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/extreme_reactors.snbt"
+hash = "46488268b421983889c545037a1da68c010692726f0044380128bf66b9555773"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/food_and_farming.snbt"
+hash = "6204b4d4c6dd8118f5206725f2b4c28dc86be2c0268bed148f30b89e56d8a902"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/forbidden__arcanus.snbt"
+hash = "489c0d8f6d9dda9c7cdf36757067d89d426ae0d6c87ad9df0779812efaa50052"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/generators.snbt"
+hash = "20b1bcd6ae331b7aecc6318bd018a268b4a10157fa1510f592a2ccf830495e16"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/hostile_neural_networks.snbt"
+hash = "062e43f27e7f3e8522e8f1ea653ebc0ac0a4d5ad2f2b6c8cf701d6a1b21b101e"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/immersive_engineering.snbt"
+hash = "e88ce70adf4033c3e80ae895ff0683d136b646260e1cf88da488cf7bfb87123b"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/industrial_foregoing.snbt"
+hash = "bab6aaf622fd4c6a274832c995df8904270c13631e35518f834407f0f2056d2a"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/integrated_dynamics.snbt"
+hash = "495453f353e1bd4fda30ea9572f711692a6073650c4214713ffc0af9d4066f94"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/iron_spells_and_spellbooks.snbt"
+hash = "ea17866accc83c4ac5a5e27c8ed88dc8b34d927021c30eed670ec198a32a6543"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/justdirethings.snbt"
+hash = "60af57efd9c0820b3a6baae25ac44afaa19e903c5f06a7319c91335b6e9a74a9"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/mahou_tsukai.snbt"
+hash = "c9d3721c8c6e8b708986cc77ab24851f310fda950280209f093a57a50fe25655"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/mainquestline_part_1.snbt"
+hash = "9c3803aed35706779fc33faccf698afbd5ca89d59d072cf218db1cf5f4457e2c"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/mekanism.snbt"
+hash = "ff0c63007d344aaa4e1da2b44c20e5c61fdad71c19d5864cd8b6d0e134e17b91"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/mekanism_reactors.snbt"
+hash = "ec61aa2bb87f88ad2e1ce5cbbf9c7705ca998518ba795b5348987670e9a40fe9"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/modular_router.snbt"
+hash = "302ff5267ea32b32c344dbf47e4b5098098a3495bd7876068406b1cce83aae6a"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/natures_aura.snbt"
+hash = "1c9afb1a580495f9d4584f693df423ac4f768b797ee08142d5e2ca1780882c67"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/occultism.snbt"
+hash = "4b64e17b992c9c3c3e150a6fff4f0d9b154703eb1ec6b732063cea7e0fbdd033"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/pneumaticcraft.snbt"
+hash = "0d592f881993eff4d92d5d0c82a233d11273d99648f42499119dd4939f6d8840"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/powah.snbt"
+hash = "be24909a84c96b3865b54e940f51f18932794de6eeb4bf966db1eb0a64336173"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/productive_bees.snbt"
+hash = "57c7e774ba3a5e7165f2aba52ea1f1517c2e740f3b6e9b3b7a2ced7712e27190"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/productive_trees.snbt"
+hash = "4bcae658f158f27491b2d8cbbccb2d1e43192c5288f9fd9f30cf2051abf3d9dd"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/pylons.snbt"
+hash = "516d2ae56731fd9d1c5403f965ac5792a65f48dea6bfbe1a7df937c26c1fc0f2"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/railcraft.snbt"
+hash = "ff6270de521748e9335d74ea2f5d517fefe796e8edbe4287e6f4104c25cfe070"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/relics.snbt"
+hash = "3b9abd049d9ffe6f27546be9a0d58d50fc2968414fcf8f10bf8682529b1177a4"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/rust_free_and_oiled.snbt"
+hash = "ee5a62135fd9fe391f118c86dad9f08f11e35e07b7ab115bd90a679ab63e15f0"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/silent_gear.snbt"
+hash = "0b5482facf8255a7216a3fc6d130f6110b15dfc635613b92e9ff3430e743ee56"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/steam_age.snbt"
+hash = "240a0234a4ba27c2bbdd56dce7242f4153ac7f5fe9fed056141ac61aab8d3be9"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/storage.snbt"
+hash = "e50af8c8b05c9888ddf031dfe90d5a40536be929a8236eac01fe40d7e1dd621c"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/the_electric_age.snbt"
+hash = "68efd9f275a46d3871cb0d6e4e6fa93ad7112651db2d23ae5fa88b6d8d7d6d98"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/theurgy.snbt"
+hash = "7e985fcb6dfbd7e1942f120dc661772e807e66350b4dc2dc97e78d91e3ad0e5e"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/tips_and_tricks.snbt"
+hash = "e2650ae9038d68ad5f2a8019fb1d5fc08fe10b184f9d33434f0601b039e7f955"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/twilight_forest.snbt"
+hash = "be547771e3181f150798d8e83d925a5dc86423f67db318f914c0485d885919dd"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/undergarden.snbt"
+hash = "fd1218eef822341913fcdac0bb39e371c04af1a26132562931460abfae7f682b"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/welcome.snbt"
+hash = "6d6e7c53d58090dbb96f0484531c49f6a8723d50bd64877a99bef3a19f7da44b"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/xycraft.snbt"
+hash = "bbe21383da5e1b7c405eeee9ec3d6b1a96bd552ae6d0c5e594d92d759d1b853f"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/file.snbt"
+hash = "45f6e2392554dee375c09f7941b4be99765cf2a931e317f920ab8be2d59fd85e"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/reward_table.snbt"
+hash = "e16c5bc7e64f14b4ae830e209ecac0ca224fa965321796e6d70d31ec4de1425f"
+
+[[files]]
+file = "config/ftbquests/quests/lang/fr_fr/chapter.snbt"
+hash = "d4bc9a9bcfa903348b16083df2e441ebc467ce38def3773078c902d6211e408c"
+
+[[files]]
+file = "config/ftbquests/quests/lang/fr_fr/chapter_group.snbt"
+hash = "ee0b30adad0c04c749b1c6bd4dc7e649bc4d41c489771b920d45f996fac4c572"
+
+[[files]]
+file = "config/ftbquests/quests/lang/fr_fr/chapters/apotheosis_2.snbt"
+hash = "d627fce543484c4787b323d5d94dba8872f1f2657bb0ae4986481b5071d86c7b"
+
+[[files]]
+file = "config/ftbquests/quests/lang/fr_fr/chapters/basic_logistics.snbt"
+hash = "82081ed0f869adf867a0c603e3f0ad86033b6864fd73cb664712a5477b90bbfc"
+
+[[files]]
+file = "config/ftbquests/quests/lang/fr_fr/chapters/bounty_board.snbt"
+hash = "2c23f4879cb995af8c4042173931e4dcec8b7665739bf2a12c320421f96ba130"
+
+[[files]]
+file = "config/ftbquests/quests/lang/fr_fr/chapters/elmystical_agriculturerr.snbt"
+hash = "e08f54f3cf2d1fcaac501dbf348b49f7d5f2f7ff1d02892680f161584573919e"
+
+[[files]]
+file = "config/ftbquests/quests/lang/fr_fr/chapters/food_and_farming.snbt"
+hash = "71c6584ee48e70b0aa4874f4d4b13631d02e316090167803adc0e4412e6d4495"
+
+[[files]]
+file = "config/ftbquests/quests/lang/fr_fr/chapters/modular_router.snbt"
+hash = "9e7aa9c73235cdb763dbf71a4e25c06ef1cd059ff1300bbb7ce2e2de75cedff6"
+
+[[files]]
+file = "config/ftbquests/quests/lang/fr_fr/chapters/occultism.snbt"
+hash = "b544cf2b7c5cd9109e2bad8333d424896013c024dec26f17d50dea8c6484e190"
+
+[[files]]
+file = "config/ftbquests/quests/lang/fr_fr/chapters/powah.snbt"
+hash = "4bb7c39c3d22c26ade287106700ba7f28586f7920e67f55ecb70b3294105fc91"
+
+[[files]]
+file = "config/ftbquests/quests/lang/fr_fr/chapters/storage.snbt"
+hash = "7a168d9a275fe17601342f55992f68882cd314d425fb2c8b822bdcf8c8b1c64d"
+
+[[files]]
+file = "config/ftbquests/quests/lang/fr_fr/chapters/tips_and_tricks.snbt"
+hash = "b5185b1f45248849082e6ac6346298b0c92d66dc6732549e51bfb6885cb8d0e0"
+
+[[files]]
+file = "config/ftbquests/quests/lang/fr_fr/chapters/welcome.snbt"
+hash = "de60d5b05afc88d998fb7bcee204f1cf3bc4b30298ea54eb80114e61221b47ff"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapter.snbt"
+hash = "e18756862fe1ce5139ccb560f95c32e09a2b48260ed6b9af75ca56cccea75adf"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapter_group.snbt"
+hash = "b36777a1dbeb7491659c46a6401fc810598b5250970a491dcf70fadcef4babc0"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/achapter_2r_6the_atm_star.snbt"
+hash = "2a076cf04e9864cf2f7cb1a50fc415873a73374dbad238f62eb98ede420831b5"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/allthemodium.snbt"
+hash = "d821dada665e25482bd6b9fd3fa5ad5ad9f8414a66f74c0190bac33ab150f737"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/apotheosis_2.snbt"
+hash = "1de3df5828515a04212789560d1b6fbbe09182ba2fc29954044869db587a7fdf"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/apothic_enchanting.snbt"
+hash = "0d3582809410ce88ae3b5d3a45b18a7afee4a01a332c141ea4d0827688785618"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/applied_energistics_2.snbt"
+hash = "a88e7b525c9edf5a92a50a745eaa5e5b73440719ae8744cde531a1434e9d65c3"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/ars_nouveau.snbt"
+hash = "b1a9aa2fcbd6cad3cdb42f097481fa63733f730892057a3d7b6017e7b0a59cde"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/artifacts.snbt"
+hash = "cb21080e77204a843f2ad85beb87461cb36fa567d0676da045e0f38238ca5257"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/basic_armor.snbt"
+hash = "b67cea27bbf1f070d12e106dd842ffc1956e1a19d0229165d11e3e4260b5ecdb"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/basic_logistics.snbt"
+hash = "daf6e1e0ec14b34a269d90b2d779872320eca3e786d8716874147c84059bb36d"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/basic_power.snbt"
+hash = "bfa57afe6c35c4d69f1a584316d2d330a0458f43b9bddf43708cc0fc5ceb95b8"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/basic_tools.snbt"
+hash = "0f82e569c44c5abf8172d78de7316528fab5c305c6e1a35fff529b8e75ded4ad"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/bounty_board.snbt"
+hash = "8bdf60a24ddcb5131024b3036a637f8489e2cc4ce0178205fa476ffff996a2d6"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/building_tips.snbt"
+hash = "df8d0a757157cbcfeca80338c3baf75a2bd72f9d01ebdd248e804cf0961c53ea"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/bumblezone.snbt"
+hash = "06da4cc1d1e75eba85a8b1047ad212f8d7b8617032b6d84d84ffb183f322415e"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/cataclysm.snbt"
+hash = "549f127258b37fcf061c40b8c9114004ddf2bf191bb03d5c691ccbaed60e693f"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/chapter_2_the_star.snbt"
+hash = "df2c225f4a395bec95631b93d0cb4b1a9ef662bb504d78292a7c17489b2a4ecd"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/create.snbt"
+hash = "3c161dc229ebbe2b24ca252762665b878149f73bccb8c6f21e7e4120c04eb101"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/elmystical_agriculturerr.snbt"
+hash = "6eb97ac87ee9a76d328c102690867eb30e07ec0ae259f9d1280e0bb6992fdda4"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/eternal_starlight.snbt"
+hash = "075d0751ebefe0ec7afe9dd473cc54f73e846a5a26cc6c1ea1254b46ceb32779"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/evilcraft.snbt"
+hash = "4fa32d144157fd98bfed3bc1c5e447362e774182df9a91fa582d3fc2f955832c"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/extreme_reactors.snbt"
+hash = "c76c6b57823674f5afe1e698bdb5a15d73d26ce75445cdf26cfd62dd123802fc"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/food_and_farming.snbt"
+hash = "0834e7c9541d34423f719fe8bbbcae93bf6d040488cf898423229fc4cdb2b1ab"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/forbidden__arcanus.snbt"
+hash = "957420098a3b44038bb708f716cedf8bd6a76ceccdc46eb8f531ec9a3e1d71ee"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/generators.snbt"
+hash = "1aa5792b4669a9ffcc8d42390db0aeb070ae32ad6ed731553e2489a0bee60bfb"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/hostile_neural_networks.snbt"
+hash = "e462650c8c82ef8c2078b9f8f6ae068a4813fd0d6810b18b2bd5561a4d14222e"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/ice__fire.snbt"
+hash = "f5160121fffc3d9aa7ff6db934b49440dede6b9c190409234f299a2131388183"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/immersive_engineering.snbt"
+hash = "0e7b4c586d71f22fa63b192ec8fe27ad82b34547b4e968392c310a09d93af61c"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/industrial_foregoing.snbt"
+hash = "d9ff08cd3a99eca1d088928bdbcc42e265f286990140de7b4e2a00683b726670"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/integrated_dynamics.snbt"
+hash = "ef82b597cadfdbe339516ba7dc11109c12a272d30cd40ade90e7438ffaf121b4"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/iron_spells_and_spellbooks.snbt"
+hash = "8e9aaaee266d5e4de0d98a03e0c0de0106481a9b4186e772fcb5b574aa002b97"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/justdirethings.snbt"
+hash = "0fde984184103708b1b362d4461f0c42adda48df237bf84d6334a21a8e2a225a"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/mahou_tsukai.snbt"
+hash = "270d3e43292b8a7eb71b7bf51d67bd2fded3583e46ce34bd57d9eed4a089be37"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/mainquestline_part_1.snbt"
+hash = "e9cb422426080b0a880604fa5de628ca2cab5fad2a3bf4636224b7be4e040710"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/mekanism.snbt"
+hash = "881be7c5d4b9a393b4ddd9a17e01c909e232a568583fcc2db6c71891ffb65dfe"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/mekanism_reactors.snbt"
+hash = "a36a631bab14841d62d455306a532f2bd073167d4df9944cde49965782ae7483"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/modular_router.snbt"
+hash = "e268d62769b4f1b6bda13aea473978abdc9a14a3ab79318acf6ca2e3aa3ea0af"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/natures_aura.snbt"
+hash = "ceadc8e51387f36d7da8efd3c498b6ded6ccf7850b34e664625a424437c7c701"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/occultism.snbt"
+hash = "70e75efdee79a19590bb57bb42481cc5f1adeebfc6ff5ea93d10e60d68606cd8"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/oritech.snbt"
+hash = "ed5ce221f477f1e04dd8c909530859af3757c462a72d9693c4b13b23b4734446"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/pneumaticcraft.snbt"
+hash = "5b3b5b1b1062f50bdc6750dd2e4a9759b1ee1b08f1bdaa43d79884c48b910042"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/powah.snbt"
+hash = "171f35a19c097efe2cad14e93bc410abececd35f80db924b716694aefb90b1fa"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/productive_bees.snbt"
+hash = "68567b27651facce5ff12320d744cccfac93f6e837ef23e6742ce0b6d6fdeb39"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/productive_trees.snbt"
+hash = "eb1a72fa2ffb25d8b3fbc4f26df248e13d6def8dfd089b13c9c070fbaf60ba88"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/pylons.snbt"
+hash = "fc87669ec788c62465df4303d08aa42f4e9ed5e4e7fe4ddb67679916703c74f3"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/railcraft.snbt"
+hash = "a2b4548d603c8faded2f39ebdee9f82b1d79c0bb42d7b16a5849544cb0ba16b0"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/relics.snbt"
+hash = "48b755c39d48a129c6fa2e1b36b7e28346900f640baeac45d861926144ffdc59"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/rust_free_and_oiled.snbt"
+hash = "1afc9942e83a374016695bdc598a214e15784458f5b37cdc86e77e6b5e6a728a"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/silent_gear.snbt"
+hash = "98682e5cbb86c0f8ca9c1420d3a967ff5ee9ab1ed822672bdbab1d933064638a"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/steam_age.snbt"
+hash = "907a580b11a55689869f8db5459add86524ede9effb7fe5ff05a3b5e3ffd7bf4"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/storage.snbt"
+hash = "ef334911ff760f9614fbb90bb6a5b94a52f08d0b1ddc43c4db415be3d0e9635a"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/the_electric_age.snbt"
+hash = "7786047edbccaf6bb8d0483c8986d7923078edd1f3a51c2d4c16399df97b035d"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/theurgy.snbt"
+hash = "7f2cd9fe9b6a37d66d100c06355211c8ac24b4e16a868f4066f6eafa24c58211"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/tips_and_tricks.snbt"
+hash = "6db7b214bb9559f87789e503097c13dc6779b940bc7d2d86114cd57c8abfff2a"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/twilight_forest.snbt"
+hash = "1d60ca7fc56f1220627ba786403a4051ccc4c09a10c62d6eb60d15e5d85b482f"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/undergarden.snbt"
+hash = "fa1e4649934a62de6c97893f6101165f36930a5429e1337989d296a7b069851f"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/welcome.snbt"
+hash = "0e3491e25abd28dec56fba105c82ebf09adedfa49404377d8f5c93ce667c6265"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/chapters/xycraft.snbt"
+hash = "40c26ff4cf47fb85554ad64abc3aae13ab63d141ff44896930c6a9c56f68ec34"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/file.snbt"
+hash = "45f6e2392554dee375c09f7941b4be99765cf2a931e317f920ab8be2d59fd85e"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ja_jp/reward_table.snbt"
+hash = "6e7e44c43165752805e5e21d4e89e1b31e4d5f0dfbcb0a26835b468d04d4d7fd"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapter.snbt"
+hash = "ad223f1ddd670eba70ded58e7ee63de10a11ad9a7985b28e034bcbbda2e9578a"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapter_group.snbt"
+hash = "51cd474395d26fa5275ee5760d9b3c827d6ddf155a8c658655cd54eb873a01b8"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/achapter_2r_6the_atm_star.snbt"
+hash = "2cfd3b375c1387ae92321f960da4e28b3ec4a1b9ce21d0773d9d7a4a711343f0"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/allthemodium.snbt"
+hash = "ef7f34dca010e6e9ee0c981afb22a78b2479f276dbe3636fc3dbba9db95a7783"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/apotheosis_2.snbt"
+hash = "86abdf5711690b2ba744cec69714adf4e295d758662802cda503f141c16d9563"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/apothic_enchanting.snbt"
+hash = "72376d1a7714b8bd3a36284914d657c6cfa6a48540cfc8889351a8f2fbbee424"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/applied_energistics_2.snbt"
+hash = "b9765805d9420c64c32bb867a3b9f698f72716f5fe57114954dfaffc739e8379"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/ars_nouveau.snbt"
+hash = "05ee225fbaf231fbda671a247b1ab4a018923954ec8558d1c97cedc97710cdc6"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/artifacts.snbt"
+hash = "a660537b7e8e0034f4cb4f253e43789b7aa42348c73eb80839ce8702ebd5ad75"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/basic_armor.snbt"
+hash = "00257059d799cfc9ef32bbdfe46c579ee146369505b6e350884d2fbff2ed6720"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/basic_logistics.snbt"
+hash = "4945c17a696b267559da1f30998509f0b8ee6a690e7e0b42ab95f8de1ce82e2b"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/basic_power.snbt"
+hash = "e99a46c0dc34b08d8817873e47cfb97af717648abaabb58c44891e44a6aec758"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/basic_tools.snbt"
+hash = "01900d718d4c5a5832f25d8092fb02ef440bae75effb34b716240e6b784c14a3"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/bounty_board.snbt"
+hash = "90c7c6623dfe49313a2134e2498895ae0c222d5541aa7751dd7657e527d68a9d"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/building_tips.snbt"
+hash = "11627a75ae1d812a9a1fb625038f610e4aa72bc74bfd010f21d014bd4055c1d3"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/bumblezone.snbt"
+hash = "562879767fdaa5e649a6945ad6fc58545fcc1fe6d92eb4338f384819b40dc52a"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/cataclysm.snbt"
+hash = "a54748ffd8d057ba6b164c8820004119e94f179710e7383d85106678ea1aa931"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/chapter_2_the_star.snbt"
+hash = "6857b7ab027c2075a482385e52537dcd520ee9dfd45488266c111042d9bda715"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/create.snbt"
+hash = "5c5180e7819f65afd67e249a87001e3ffe18c6850c2d603a6674a829f7414774"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/elmystical_agriculturerr.snbt"
+hash = "da2116d38f33bed9f1830296869bbd27fbdd86406cdfceb1dd11152f49fa69b2"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/eternal_starlight.snbt"
+hash = "54c695e368e685ca7edbfcef8237444c75a8f2938b967c9730bac7e9fdd6e0fa"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/evilcraft.snbt"
+hash = "57495ff553eceed80102daec4cc782e51e78c18ea61c7c3eba260a69ffe27aaf"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/extreme_reactors.snbt"
+hash = "9c54e7777638b7753452edd7100c84c70c4dd7ed1938cc13558cd9fbeebffc11"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/food_and_farming.snbt"
+hash = "22e3229b3ba8c222aefb6bb57c096b6bc8333eeb5518c28f01c22d81610d728e"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/forbidden__arcanus.snbt"
+hash = "f56dc1028ea4d07aa88affe684405410084cad0f6bc7d87ef698d4d2e0e36978"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/generators.snbt"
+hash = "c561655f5ddf4aaebb31e466715890e82380b295e2bcf4564cae0f967db6f03f"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/hostile_neural_networks.snbt"
+hash = "fffa962122b6f3652c402788e9f11dcf58c23c2bce578eac85892f91c2da356f"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/immersive_engineering.snbt"
+hash = "e5c40fb7aeeb55572dd7af15f8108e5ff3280f0fe0a8280270dbb5e8159bb59f"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/industrial_foregoing.snbt"
+hash = "0912e02c265f2513f9fc966255f9e19862b211adf382f64e37c81e473e4b8be4"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/integrated_dynamics.snbt"
+hash = "6d0a1e04e39a774d4d89b604336e5699a4984fd555c931a4de9b49f9784d5205"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/iron_spells_and_spellbooks.snbt"
+hash = "6b03c1c3dc7b54637e43aee27797a1367e170f4f8f0fabb45138f75b3d81ffcc"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/justdirethings.snbt"
+hash = "88a5b9300d76457cdf462b2cf983f424fce35159555adb492c482593b92a6f77"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/mahou_tsukai.snbt"
+hash = "fa0e0c22ce5f8bf9d29d267f88f3fce4262c34d276d85f9aa2d224308fd1d762"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/mainquestline_part_1.snbt"
+hash = "55068b27f1f0892904251b8a05fdb3add2b8d2bf03331498f822605ee6b6c134"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/mekanism.snbt"
+hash = "5a4fd4288a0d6c6e08388d0f51d11c6910bfb590a58544bed2f0ebe8b9f62b82"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/mekanism_reactors.snbt"
+hash = "cec7fe94872bf546b8a66bcbc9eb1d610740027124566fa5171e2ba33a028aa2"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/modular_router.snbt"
+hash = "bfd51e0d1e746b8e94147ca56f8a467e37ee19294d0652abbabba00ad73ae7f8"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/natures_aura.snbt"
+hash = "7a3f03b6b6b8a5760ed9f46b00b251ee6d5c3df5a9d97cd82611b90671dc6d28"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/occultism.snbt"
+hash = "74a67b84da06ff3f783e63b631080a05393b2d95d07e786b3e66f94095bdb927"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/pneumaticcraft.snbt"
+hash = "6fa45e42f0d6ac11810596d165fc870c7705d0c89d708311246ee56523b8f210"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/powah.snbt"
+hash = "f09ce7234d450deb987c8503f479abe059439c1e16740b592a06bf8b59c09daa"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/productive_bees.snbt"
+hash = "1bdb3fe0139aff11faa63f7e4de66be7815299d5ab57734ab1e6c7b5577d5a2e"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/productive_trees.snbt"
+hash = "4226e861ab2119482a1472eaceb5cab07b498da0a28f820fd659ebff020808e1"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/pylons.snbt"
+hash = "de50a36dc6f40f9e8724cf7ccb3e23eab010ab4d163f0982ef85c2e1650bf519"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/railcraft.snbt"
+hash = "d363626fbfd35311150fa175a17c0bf762b050095d4d352dc7d2769e223da24a"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/relics.snbt"
+hash = "b8fed03af07984fa853cad86ae3f73458597209d433b664b3ab9702645e358c0"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/rust_free_and_oiled.snbt"
+hash = "422aa0c42505cc07e22adbce040860da80b50292b0c9f12ed73e421c2f845cb7"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/silent_gear.snbt"
+hash = "1adf75aa0351319576eea4a7d72acd08f26a9aec23adfadfa3914540bef44517"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/steam_age.snbt"
+hash = "07c86615e18c1ca354cbccc4e6a9e87794290a1a3945c2bec0b2ffa196b0fd1b"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/storage.snbt"
+hash = "0d71dd81b1c09bde26710edcc92f7067e4f79c8202c8d614091485e1b8296ef1"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/the_electric_age.snbt"
+hash = "a87f2062d72066bac68092ae9b4434560f2474c8c063b0b3d6a7419183d0d948"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/theurgy.snbt"
+hash = "5ed1f3f429f8aebebfe1889afd7b61e6a0ee36c3ae10d979e1d2e37240979b3a"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/tips_and_tricks.snbt"
+hash = "829c7c246986bdc4525f8a2b6b9a1d0b0e7c71c0d04bc7e52c137ed15af3a9dc"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/twilight_forest.snbt"
+hash = "0450bd825af17acf65eefa0cdd6273cc82ab189086fe7ff5a70b3d0c28f071a5"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/undergarden.snbt"
+hash = "62d8d25dea68dff68dac81bd4e63bdba8f7364d765ee85a7350bc594a7ee76cf"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/welcome.snbt"
+hash = "0f63f9163f9684f459c1095bd82e3a8824cfaf6c35d8977edc71d4e5fec58704"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/chapters/xycraft.snbt"
+hash = "c07a513b8a24771078a4c1549ce83f1c9c2761290e48b9da8ffeb17c1e358319"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/file.snbt"
+hash = "e7b836feb3819cc1014a1b32f83bdf5c2d3fd9807558b2e923a8762e27f9ac03"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ko_kr/reward_table.snbt"
+hash = "6c4b707dba24b5cad37691c8c6e972605a24a9e42ba10868bac9d606b7a37d48"
+
+[[files]]
+file = "config/ftbquests/quests/lang/nb_no/chapter.snbt"
+hash = "09c8d7c868d2a0777aa1574d0bd1328868a82edd611d17379a3f28e22390e432"
+
+[[files]]
+file = "config/ftbquests/quests/lang/nb_no/chapter_group.snbt"
+hash = "6452ac0c5ec712b57405d43fb903e8031ee5c46147bab2f3592bddda322fd414"
+
+[[files]]
+file = "config/ftbquests/quests/lang/nb_no/chapters/apotheosis_2.snbt"
+hash = "1dbb3b738d134308847693366d99da920d619d5a3b0c477330afe5e92bc496c3"
+
+[[files]]
+file = "config/ftbquests/quests/lang/nb_no/chapters/applied_energistics_2.snbt"
+hash = "72a83eaaf2566c573d9585f1542a750e9a10877ae00a7b1ba91e5c4843116cfc"
+
+[[files]]
+file = "config/ftbquests/quests/lang/nb_no/chapters/ars_nouveau.snbt"
+hash = "fcec6dbd04d1b042fb08c0bf4956ddaac66c0b471681d45b6bf889424fbcdbe8"
+
+[[files]]
+file = "config/ftbquests/quests/lang/nb_no/chapters/basic_power.snbt"
+hash = "5c871866afc09c89dc5d5ede5d24970f2db88e0ec0e0318dcb5443d8c68be910"
+
+[[files]]
+file = "config/ftbquests/quests/lang/nb_no/chapters/basic_tools.snbt"
+hash = "7979c443ce8b09e17f1348af73183ca76d142fed4f514f3da5018ee7185d5193"
+
+[[files]]
+file = "config/ftbquests/quests/lang/nb_no/chapters/bounty_board.snbt"
+hash = "f01c81e718c89b81ec6d997e44613ec916dc312d06550e509cfd7643abf8ea61"
+
+[[files]]
+file = "config/ftbquests/quests/lang/nb_no/chapters/cataclysm.snbt"
+hash = "5dc34b642c58ae9cc3ba5a648846a3b2fcf52948dd73bb5e535bf5deee9aedf3"
+
+[[files]]
+file = "config/ftbquests/quests/lang/nb_no/chapters/create.snbt"
+hash = "5b38e1f8a0a613b6221afdb2d0d7e061a8ad0059fa4af49c0a1eab854d7a391e"
+
+[[files]]
+file = "config/ftbquests/quests/lang/nb_no/chapters/elmystical_agriculturerr.snbt"
+hash = "b4e1c6554a3878a26e9622b8abdb696246f4765de6bc112916c051ccf3a44605"
+
+[[files]]
+file = "config/ftbquests/quests/lang/nb_no/chapters/evilcraft.snbt"
+hash = "1eef5b22a506a70f2d2f87dc6ca2220654c0687fccfcd47d5dda214065b4bcba"
+
+[[files]]
+file = "config/ftbquests/quests/lang/nb_no/chapters/extreme_reactors.snbt"
+hash = "a74a118ec6138bf9c33944d20269310bff4c4da9cb206f9687f6001c955a8720"
+
+[[files]]
+file = "config/ftbquests/quests/lang/nb_no/chapters/food_and_farming.snbt"
+hash = "e0605224d92a2c45d8042466914700135b84710082e4d7456f6d19d24fdc5df8"
+
+[[files]]
+file = "config/ftbquests/quests/lang/nb_no/chapters/hostile_neural_networks.snbt"
+hash = "ece9731181a015f39a17801a6d063f605bb0612177dc45647b7c7d5bb3a0cced"
+
+[[files]]
+file = "config/ftbquests/quests/lang/nb_no/chapters/industrial_foregoing.snbt"
+hash = "a54629e9a8ca98b70b5706000627202506d91754902288caa31522cdb75d82d5"
+
+[[files]]
+file = "config/ftbquests/quests/lang/nb_no/chapters/mainquestline_part_1.snbt"
+hash = "d3837fc868f5f9a8f37ad11e26e0a02b3d21b5c25b5b28a6e69003596888eeb4"
+
+[[files]]
+file = "config/ftbquests/quests/lang/nb_no/chapters/mekanism.snbt"
+hash = "7b39be5ee28c1668b42e67cd56705f778fc0571a8c3dc27c37f9afd21cd5483f"
+
+[[files]]
+file = "config/ftbquests/quests/lang/nb_no/chapters/mekanism_reactors.snbt"
+hash = "925dabf4ba24ca0cffad840daa3483caf63e84e106febbdf4d7181985d6ed81c"
+
+[[files]]
+file = "config/ftbquests/quests/lang/nb_no/chapters/occultism.snbt"
+hash = "358aea67118afc41971c32a84ce9d0593dd545d35e94c834b29dd5c8dea45f4a"
+
+[[files]]
+file = "config/ftbquests/quests/lang/nb_no/chapters/powah.snbt"
+hash = "bac8f6c351bad41d1cbeaeb356182692368f08e0457e3487e56b2e51d1268154"
+
+[[files]]
+file = "config/ftbquests/quests/lang/nb_no/chapters/productive_bees.snbt"
+hash = "fe0e6ad8f059b7843d88e39445b9c52bd51d87c2bbee697e619b76ed6ff4675f"
+
+[[files]]
+file = "config/ftbquests/quests/lang/nb_no/chapters/silent_gear.snbt"
+hash = "0b2cee1c8c22879501c44d4ba844b0ca122abad530f72de4729a6adf8843d277"
+
+[[files]]
+file = "config/ftbquests/quests/lang/nb_no/chapters/storage.snbt"
+hash = "c9cb4ac5c8f52ae6fb2c5b12d0d7a3f3ae3e4c519028ccb6b6c882e508231527"
+
+[[files]]
+file = "config/ftbquests/quests/lang/nb_no/chapters/tips_and_tricks.snbt"
+hash = "e00283f6e46ec4894098e0874f75937202b0f46eb636fccf9b6a1e8e18b9eedc"
+
+[[files]]
+file = "config/ftbquests/quests/lang/nb_no/chapters/twilight_forest.snbt"
+hash = "bd28f8415f07871ea712c546e2b722e45a8a31bf0bb54052006ba4ac017dace9"
+
+[[files]]
+file = "config/ftbquests/quests/lang/nb_no/chapters/welcome.snbt"
+hash = "d514c43f56e67a4a8f0085a44ff5f7b40ba6c1040e54a979c20034068bbfc8ec"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pl_pl/chapter.snbt"
+hash = "03c487bdf17700df731a99bfd6e788edc403b85a0fa616f13bc518e856adeebd"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pl_pl/chapter_group.snbt"
+hash = "9fcbfb61f432fc5f693b7f99ad6691d117607244363bbc671b8b41e9632a1798"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pl_pl/chapters/achapter_2r_6the_atm_star.snbt"
+hash = "2fb807a5bd3f0ac8a8a2c8c4d186a87133792c7f59b5cc020e2545ea2312869a"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pl_pl/chapters/allthemodium.snbt"
+hash = "2b8949c36c0f6d08d651a995f761ce1f91db28bd0216910907f6525943eb6229"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pl_pl/chapters/bounty_board.snbt"
+hash = "7336521a8e32413dfd620452f97294ac61496b4310f1595501c13856100cd655"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pl_pl/chapters/building_tips.snbt"
+hash = "7b801f68adc4974d48d55a54ba078ec0e882d35c54981486007d97338dc3cf02"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pl_pl/chapters/chapter_2_the_star.snbt"
+hash = "27f941574661d9bc22e01fbfb86061a66313ce886888643f990449d24b6e3628"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pl_pl/chapters/mainquestline_part_1.snbt"
+hash = "6832682f92e1fdc7bdfe8d6339557b4a6b378e377d6541d12e0adb0cb3323bfe"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pl_pl/chapters/tips_and_tricks.snbt"
+hash = "ef15bcfef858fc248768dcd22de0f6dd762f1333079bc81d2f261d582657f170"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pl_pl/chapters/welcome.snbt"
+hash = "0966302d481432352108bb2083b9f546c62014927e18939722d3b97751d00752"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapter.snbt"
+hash = "7c348af39998cc9a4e555fd72618a6fce59da6bcc5242eb84b3ed0b8a8fc02fb"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapter_group.snbt"
+hash = "ff3e75225f5e17e4e447db85dd109e4ad6418eddeb3307cdeec3dcb07a84e19f"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/achapter_2r_6the_atm_star.snbt"
+hash = "2f6a0268521acd33c65de2371f1201b88578f4cd4aed3390fb8ca0b4512b41bd"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/allthemodium.snbt"
+hash = "096a5057b71d8796a87b44b5a7b2941de451d42ef5f95cb3a9a82c3ccf0d3519"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/apotheosis_2.snbt"
+hash = "c66f3964f93fa2759ae99b5404652a26d8ec11690ff44f1ed036953822824552"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/apotheosis_gear.snbt"
+hash = "72c502dd05164ce2a858fee14edc74c1e87db38e3104298f49d6a318d87964a1"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/apothic_enchanting.snbt"
+hash = "3edf124546e7db47eb07d140720650b937a17e521afbf25de4185e28ebcb9da3"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/applied_energistics_2.snbt"
+hash = "b8299f42c31e18d24dd2bbccbcf67ee6de06d40cd380439435aa61bf92b4dbf7"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/ars_nouveau.snbt"
+hash = "03f3caf181debc23e37c424a6d6212350df9045b8d8ec4d38cd712cf0f9cda1f"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/artifacts.snbt"
+hash = "c87152a4100f6f8affd7167019d35a265d3ae80828252692f80a5b9767887e75"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/basic_armor.snbt"
+hash = "49a733dec5c38acb8ee797eb6d5890c25a2bb87eeeb35d7d2f57fd2135548071"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/basic_logistics.snbt"
+hash = "788ea15c0a34c8318434ba32f5aa8c93c60674c9ffa8a14b9aec70c908e10493"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/basic_power.snbt"
+hash = "e05ff6f21c735318d245384444e0f9c85c347aab9df1370f59caa5d741077386"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/basic_tools.snbt"
+hash = "5ef1b132fcfc30a35337dd6af2a5bf054cafa04546a5dcbb83be48e774e52a96"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/bounty_board.snbt"
+hash = "e2bc1dc96e28942ddea4d306b053012a713f3fe606f3325b641453c01863039c"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/building_tips.snbt"
+hash = "0e96afb35201a73445f0eb100847238ee3d4577a9ac2b60f2fada831e6e82026"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/bumblezone.snbt"
+hash = "4d58ae82d879a05ba52fa038d00bb51bbd26b0cd8fcc67236aa87a4ef9d6ec6d"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/cataclysm.snbt"
+hash = "3656bb2eacd38edce619321d977b20f6cfea5cf07880f071cde75896baa9a414"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/chapter_2_the_star.snbt"
+hash = "0d3ad6752a8bb767fd63dbaae54b83264001fd6dd856fbda97d38923a4c2398a"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/create.snbt"
+hash = "00f4c5c98a9bf0a2f4bee2fb15b3c88fa02902eba6102964407c32695ee67b47"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/deeper_and_darker.snbt"
+hash = "ea50587ee975bcfb583bda5f8eac88da9b93478d6d763393e38997731d262f2b"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/draconic_evolution.snbt"
+hash = "4a9343195a9475739bb4bac24722dce8fa8c2d1dcffdc462be08ab56f3b3327c"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/elmystical_agriculturerr.snbt"
+hash = "4ba6fd20366731544f2de6126613990d69ee15c92699cf58e61dcbb3f0d29e1e"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/eternal_starlight.snbt"
+hash = "d78758e4380e6414fc76bd92ed5e021bb388f70cc08cc9ec99a6a9d20b736106"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/evilcraft.snbt"
+hash = "8c76621cecd85005d8bc27f1d2fd8536ee84c6b3e8a98e257ee5a1a7f0dcfb6e"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/extended__advanced_ae.snbt"
+hash = "0a17cea53d5c8d82bd43e412fdbedae678d70b493d13b7731e7ebc66e7fcd547"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/extreme_reactors.snbt"
+hash = "c0db74d6a01b070afd16b8999508b85edfacf69b5bcf3c8e6ad6c315d3f2cb8e"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/food_and_farming.snbt"
+hash = "a46b436d34dbfaea87bb3c61246e7600171ed27c4c4671e1a59540324ccfb301"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/forbidden__arcanus.snbt"
+hash = "71bb1f969f233a86469da1f839ac5465adc279d123c7d1ac1c6c80a5ba8794a2"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/generators.snbt"
+hash = "8339c859914f7448ea61809d83e5f08bc13de961f83a602f12f63e52516e124b"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/hostile_neural_networks.snbt"
+hash = "5aadd461bb9723b0e4ae0fdf56969b5cf9b043c5f4ccaa3c52fb456ec238b4d7"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/ice__fire.snbt"
+hash = "f89bd090a4442e8ed55ff1fe876c6dd3273e4e271d5b3945b17e0f68c0382c7d"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/immersive_engineering.snbt"
+hash = "63c2ba962b363197b7b484c21655b96ad76fd7ff8b18528db2f72d5c19c51be0"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/industrial_foregoing.snbt"
+hash = "30405d78730e459f09f6d6eac5963cae45eb1c6f4aaf21b5aa2a086ae99a7704"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/integrated_dynamics.snbt"
+hash = "7ca861fb7e3c36165b726b9fee4745f235b8794857a10d3f8e582a26ae8afd85"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/iron_spells_and_spellbooks.snbt"
+hash = "f5b51116d4156bc2297d989d2506630c3c4c72dad99ed5b077c1adc45b01dad4"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/justdirethings.snbt"
+hash = "599a9310ffb56f97df0d3dd2b70cbcc342b40de5b816a0a6a8e6f485e7d80b47"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/mahou_tsukai.snbt"
+hash = "d75e7faa2bc24a1e1949f3ba16a8503dfbf391e3ca727e7bed730f94ef6ec209"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/mainquestline_part_1.snbt"
+hash = "6749b4fd6844c68e6ce805ec4f562c5ee09927d11d422a32ca23b56991eb1b0f"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/mekanism.snbt"
+hash = "65f3adb1a472f14143e44d7a8af87223bf500d9cd8db78eb05f515f66d540e30"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/mekanism_reactors.snbt"
+hash = "f943117d22244fa0ae9d41405bc7977536cd77c5c46a6a88cdb5634b8a2359c3"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/mi_digital.snbt"
+hash = "9edab8ce6d777687970ac8170276b4fdfc7ecdb34f4b7cf61e63b92fedfe86f1"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/mi_electric.snbt"
+hash = "090bef9b306f32ad8299f77f77b97ac6e750e77ed143272b751b2c54a67acafb"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/mi_endgame.snbt"
+hash = "317c31a1cea68f3eeaccb0930138b86dd98d9017c7eb7b1c6a32e0a050418115"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/mi_steam.snbt"
+hash = "11beb68a0eca74e41dadca96fe469b10daf590d09eb055fb571f20f7d37d4d58"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/modular_router.snbt"
+hash = "d318c3531b77f805c8fcbb68822930a20d8ede967aa1b32d22536704dd6dff61"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/natures_aura.snbt"
+hash = "bcd05838033bd276bb7d5c9f922c18bd5af5a4b116fcf8c2cbbe3a40f015b1c4"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/occultism.snbt"
+hash = "08d168fd9a17410357165db55e3fc123516e17f78ec0ad17273319c39c0a5be1"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/oritech.snbt"
+hash = "adbf785bf6ef66f1256df76ab85d2810229c8aa7ededf8699978dc5151ba52a3"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/pneumaticcraft.snbt"
+hash = "ecba8bc475473b7be53d8ecef35779abb9a7eb7573b2998a21920725c27ff635"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/powah.snbt"
+hash = "3ed4eb7c9c8d86484d1a8f91fe5953714a0d2b8e85302dc05123a3c5b00a5c30"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/productive_bees.snbt"
+hash = "14423406ff85f06db7f0c0e08ccf89eddd68abfe22dcefc5272a1bc135488a28"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/productive_trees.snbt"
+hash = "fd85e3cde2caa73b6b92a17313aa3981f88f0cc8c5efe5ea097e981b97853b25"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/pylons.snbt"
+hash = "4b29550356c88ffe422c0907a42e2126338a5cf2fac9c9601627620d1d0f41eb"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/railcraft.snbt"
+hash = "a1b29d06403dc2dc65f58fc55f2fa134c6827d2990ce126e619f3bbd186ca241"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/refined_storage.snbt"
+hash = "9a4cf8208f60526cfaa96c0ba0ddd564c3c3ae25d4a7a50370d5bb080e7feb62"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/relics.snbt"
+hash = "6808c247d3b70a11587c3a9e123d35ad891b66522abaa678bef7630398b1fa29"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/silent_gear.snbt"
+hash = "cc35a72f1c777672b8804351e5d295045762da34a661ab41e495363ca5cf47e9"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/storage.snbt"
+hash = "f2466f7f21dcb59e45b1341d536e4ab8baed186ba82ffebbe28bac06365e886a"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/theurgy.snbt"
+hash = "8220304c01e927852195cbe71e6e8489a0a31998c4f8a2c07d97891e43683a4b"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/tips_and_tricks.snbt"
+hash = "ec57e4ac65617d73a368c4a34af83c86386d4dc394bd3c4372203c5874cf0d6b"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/twilight_forest.snbt"
+hash = "e28d94863cf369c7bd77b8b2439e9ec22dcf812cfe822cbd64c8616e1a8c18e4"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/undergarden.snbt"
+hash = "53930a5c7a3f46a512d3223eaef8dff00a41c079c2d04f90708c5885bbd3a099"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/welcome.snbt"
+hash = "5fceb103e4625b8fa0aaee5d635324d08b0903ea7a25b99e394e96e122ac25b3"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapters/xycraft.snbt"
+hash = "0e6216f767e1997dd710626d0b66db11b9a51e96116d0e27383327109f364c92"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/file.snbt"
+hash = "45f6e2392554dee375c09f7941b4be99765cf2a931e317f920ab8be2d59fd85e"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/reward_table.snbt"
+hash = "012012d680b3893dd45980962532f96bc3493765afa714ec1f7d9ba7fca95e3f"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapter.snbt"
+hash = "d82e76017a43580add6c0ebd349c18e5918d285d68e41015e4620cfd75b937d0"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapter_group.snbt"
+hash = "1fbbbe1fa358894d5a077a369607163f65c7527f502db1dbc41445336a949116"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/achapter_2r_6the_atm_star.snbt"
+hash = "c75d05ad39df0dac8ca14b9f02ddec49bfc0caa18531b456c8fb5b88737df860"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/allthemodium.snbt"
+hash = "a2816fa3a4bb0a73e2b4cbbdb4b37deaa673a7248287548080dd7586b42c8b79"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/apotheosis_2.snbt"
+hash = "f070f9770e272329a60f03ff954a24c2e35047b300b446e3383afbfde6ff92f0"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/apothic_enchanting.snbt"
+hash = "fb6eb17bee67c2f52180a7bcc4ab214b1232f091bc3403fc2cbc94b598fa4b42"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/applied_energistics_2.snbt"
+hash = "65200e86dea203758b4e0361461e27db65e427c86bb712d735c01af179d23bfd"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/ars_nouveau.snbt"
+hash = "abc386539f66584c207756570c16a1270c283c2f5de8d4d8ca152cf4dc5b1aee"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/artifacts.snbt"
+hash = "ab8c7c40e6179f68df0abcc53264bf02fb39f189e337f7afaed3977781e82318"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/basic_armor.snbt"
+hash = "2838ab51977d19c36709ca5249a015043064fb49fb19b35dd7c53548ee8915ac"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/basic_logistics.snbt"
+hash = "de9bc97ee4b9a577183d4d1abd5ceac342b03e81954688df996a0db4b9226411"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/basic_power.snbt"
+hash = "ef3c5fe4a21f294dc40d3d436dfebe6ff60cd0d7e4f9ce3da3868171683800a8"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/basic_tools.snbt"
+hash = "45ebb2dbab5589fefdd25b7ae9db59936b0e47a86037ec3798fbe8d6adea686b"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/bounty_board.snbt"
+hash = "4682988db02772e76bf5deb07be705de4c858ecad7a926dfc29c1fff77906621"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/building_tips.snbt"
+hash = "83d01dc476edc1b44d292ca7ee15fe26f0dbf9d09a4389a0f8683b8f246e4000"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/bumblezone.snbt"
+hash = "731af8411aa81b3668505b2b57ca98d4c978fd62fe9e3ad2079524c666cd5a4d"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/cataclysm.snbt"
+hash = "a58f63671a571f9181738c039b7bd45fcd951ecf0b0ceac888ea780a2b33f5a6"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/chapter_2_the_star.snbt"
+hash = "7f8a7a7202c7a9060942a534284bf2f615d5f9ca70e63efa1af61a5e1d7a65e1"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/create.snbt"
+hash = "b1024a091bbaa7de92a132230b212946586d3f32345934fc8436b1f8b42a3af6"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/draconic_evolution.snbt"
+hash = "cceb6a0a650de8526ccd0946f00b392286e2106d200332b4a6f6436968b94493"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/elmystical_agriculturerr.snbt"
+hash = "efb90ae122e13d6acec60a6c48792c0b0b9c4c810573addb36c39087b26fa5ef"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/eternal_starlight.snbt"
+hash = "688958789c72cf6892adbcdf3a2f93b5df98ae2bba5dbd52683e1fe9d9c674ae"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/evilcraft.snbt"
+hash = "d6644d6c41b725bd1f61798a2ee08702d9db32d76908995b19fcd99edcae0e9c"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/extreme_reactors.snbt"
+hash = "265a939d8941809e7a946725167bafb140e9cc5af4f6ac6b621a437ce0f2cb2e"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/food_and_farming.snbt"
+hash = "bbbac42da3fbe21bfba22905faf57e7cbb88d2a9f9ca37b043861403e39f6193"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/forbidden__arcanus.snbt"
+hash = "e94fb6b229cbea7461e49f93fc33f2cd948dae9c8631f69f60bd905500e2e802"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/generators.snbt"
+hash = "6378bb375de243cf2ede1d35ed43f2c3a65d9fbd5cab5ec4ec8c9c02eba7200c"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/hostile_neural_networks.snbt"
+hash = "282e18768ba20e447fc769265219883a6bb7e205091f15c5f88862e7c38b6369"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/ice__fire.snbt"
+hash = "8146cf203b0007b237d9c7a50d7bbf182d600075c66cda66d462c0ba902b1b46"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/immersive_engineering.snbt"
+hash = "c347b0e23861c3b1d0412b9bc1e5ab696ec2400d2635b9b6fff320b5568b7275"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/industrial_foregoing.snbt"
+hash = "95cc29d6737df4ae316dc3932a0ee1d324a843bfc85e6694d97ed3037c309b0f"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/integrated_dynamics.snbt"
+hash = "f3f6d68fd9f8b118b14f8bf6348a2dd9fd2ce614036d366cda3e58abc09c9d00"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/iron_spells_and_spellbooks.snbt"
+hash = "01149c9f6783de06d2ee52b75a04d0dc26faaae51e382c7b9ac9bd5c6f6a530f"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/justdirethings.snbt"
+hash = "de561a8d2bd6190efa3a7f795f3fbd442a3848a3ebc65be920360002c6b660ce"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/mahou_tsukai.snbt"
+hash = "88af2a1b227ddf2ce7b6ed123324396d9f4474718be2ff6dc1953939feef9e7d"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/mainquestline_part_1.snbt"
+hash = "eaf884721fe0962976c1b8f2edbc94110ff7c69046267e7d7c79bc35fb620f45"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/mekanism.snbt"
+hash = "5d6bddc401ebfec2b017d7a6779763ee2460c59e492ad5483dcc31fd0406bfb0"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/mekanism_reactors.snbt"
+hash = "de2b255225fbf2f29123dc1ff90d42b58333b086eb33c79a189135246cecb6f1"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/mi_digital.snbt"
+hash = "2e060c5118b86092b4217cb9ab9ecc7d6c610389841b68daba0ea11ec20e25eb"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/mi_electric.snbt"
+hash = "4792d412a500c9da70ec274c31d896dd61cc4d0847d0cad513a7a678018cc923"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/mi_endgame.snbt"
+hash = "a7fd0edcaaf4bb6cee51adb81fc03ae372eb44297d4d23eb2bf46617f64c3435"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/mi_steam.snbt"
+hash = "767cede86665f9a8912a20533ea1b73af0b33ba08a5c3f7f825f6a529fd48b33"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/modular_router.snbt"
+hash = "905a32c616de042b725180bdce8a0c1455c9ebad155a51bdc74e237b82cdd40a"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/natures_aura.snbt"
+hash = "bfaa0953bb868e9976180e2e1399f50e118132c5d1668214697756d6d088bef6"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/occultism.snbt"
+hash = "caf17e5b4facc341af7bbe0d88db65a7d402535fd678650499713da75c5016c1"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/oritech.snbt"
+hash = "e770e4dcc6f854f70fd520a5731090b3f3fdc1dcf1695558f336798122fd15ce"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/pneumaticcraft.snbt"
+hash = "dc9c391a8106fe46287915783d2a42a764eab7ddb8957fdf785214199fd18fe2"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/powah.snbt"
+hash = "77c298d14ca1440681b5946a9046673483109d9f75751f4c6be914c4dc610c51"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/productive_bees.snbt"
+hash = "92f15ff1da14f85c6060572676a851cb20d905a40d35903984e12be29ad12308"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/productive_trees.snbt"
+hash = "6af028323d1c8100c8cc17c497d290012681ab64de40562313b9451db5ae75b4"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/pylons.snbt"
+hash = "c8109515815cb89e9bc78ea55c7309818d193e91951067a81a2afba27223d6dc"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/railcraft.snbt"
+hash = "97b5d50c6d31ff44120d7e5361bdcd391a33f1ee8d97700a52e0643c4c026ad6"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/refined_storage.snbt"
+hash = "66874bfe9e9bead307bc8b8c1c3552c9c1da9a7b7ce6b430d75ea2c079bbca98"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/relics.snbt"
+hash = "ff35b898824d6448ef209540b8715d464c3cd8ea060726a76e3c64649878dedd"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/rust_free_and_oiled.snbt"
+hash = "0d9e65035396f5217cc6ccf5084325a16a9210bc069dc1e102eb580adb5d2af4"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/silent_gear.snbt"
+hash = "1672d2cac03080557d7f76467b877d31d533acc20c87b3dcf46fa3f5d44a97bf"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/steam_age.snbt"
+hash = "64fa990f643c8447bd7f8445c2018843be4d220dbcb769e6e0869772477ebc67"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/storage.snbt"
+hash = "8358d8735c2a14322825babeeaddce2a29e34832b20293a4004635029264f187"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/the_electric_age.snbt"
+hash = "66fdaa07229803625d25762c2487551957a1980ff2484a33e49294d1fc5a45f1"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/theurgy.snbt"
+hash = "978dda3c6722abca2eae3181c93e179917b10283deac49ed941091bf08280db4"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/tips_and_tricks.snbt"
+hash = "007572af64bb7acdf78fe7e340b493b0d4861afdb6af5d9ae4a4ae34ded357c7"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/twilight_forest.snbt"
+hash = "48ed49664b3043e6f0fe963620fb07507fc8a95bd013acbd9052f288d8b8bc1f"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/undergarden.snbt"
+hash = "a8752a52e3243a4b29c22c3e2e9c8ca95b6cafe5df2b7701af0d2a700289e059"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/welcome.snbt"
+hash = "c3db37615c32beb010b5f6eefae9f501b43ce01d3cdd583ebec738185443731e"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/chapters/xycraft.snbt"
+hash = "92c09514e3ec69b232c8dd6f342ef080304977d9805ab53e402cb37e1c92f8f8"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/file.snbt"
+hash = "45f6e2392554dee375c09f7941b4be99765cf2a931e317f920ab8be2d59fd85e"
+
+[[files]]
+file = "config/ftbquests/quests/lang/ru_ru/reward_table.snbt"
+hash = "44837b9a0ca30b70ed28614bb7734cdc8efe695fd3234867306a3b351621a3aa"
+
+[[files]]
+file = "config/ftbquests/quests/lang/tr_tr/chapter.snbt"
+hash = "8c139dd0d68f15108e0c98f7ad2bd8d4c704ae65beeda59eb81645b02c48bc7b"
+
+[[files]]
+file = "config/ftbquests/quests/lang/tr_tr/chapter_group.snbt"
+hash = "07a6554c9d8148091a0f1f48f33f983dc3ea61c889597f6455559f1147bfe640"
+
+[[files]]
+file = "config/ftbquests/quests/lang/tr_tr/chapters/achapter_2r_6the_atm_star.snbt"
+hash = "dae816ba106cac5d998c94e742cbd73e1cec030a0c57ed1aab46ca64a17878aa"
+
+[[files]]
+file = "config/ftbquests/quests/lang/tr_tr/chapters/allthemodium.snbt"
+hash = "470393ccc7a69ce721392d9ad383ff514bfa57bf21df03f973527384db387f5a"
+
+[[files]]
+file = "config/ftbquests/quests/lang/tr_tr/chapters/apotheosis_2.snbt"
+hash = "6ee580c45826ebbc68a8e902bde0d5d7fd1d0a84da6ef105a949345ca481d493"
+
+[[files]]
+file = "config/ftbquests/quests/lang/tr_tr/chapters/applied_energistics_2.snbt"
+hash = "a6d3d823e9b459e05011ba3849c289afc3b7665a44386b42183b7538cc3fbeea"
+
+[[files]]
+file = "config/ftbquests/quests/lang/tr_tr/chapters/artifacts.snbt"
+hash = "cc1aa26e4a527dddbc849aa201c9adc557131b6aca06dfe14cfe78ce807af1c0"
+
+[[files]]
+file = "config/ftbquests/quests/lang/tr_tr/chapters/basic_armor.snbt"
+hash = "97e4a2d0e47ee08e354e6f6c0c677aa17e220954f8b8275a72eba0aa4bdd3a49"
+
+[[files]]
+file = "config/ftbquests/quests/lang/tr_tr/chapters/basic_tools.snbt"
+hash = "185d5011023182e356a101028be6c88d711c4f4ffce762eb79c42abe8597158f"
+
+[[files]]
+file = "config/ftbquests/quests/lang/tr_tr/chapters/bounty_board.snbt"
+hash = "ca539880621d2aa19696ffeacbdd4c5234487f0baf224bead804bd2c5e6a8d85"
+
+[[files]]
+file = "config/ftbquests/quests/lang/tr_tr/chapters/building_tips.snbt"
+hash = "219dfd6976b597958af0b4fa4b7842ef63ae9e42be497c058b478fa45b73ffc5"
+
+[[files]]
+file = "config/ftbquests/quests/lang/tr_tr/chapters/chapter_2_the_star.snbt"
+hash = "85e87820b56f38558659f551ec569d0e03305db15dc730f8fee23d4810b16c89"
+
+[[files]]
+file = "config/ftbquests/quests/lang/tr_tr/chapters/food_and_farming.snbt"
+hash = "f163647de183262c3a2f3844e2e4470ef3150f76e94223cb31bb4130933cd336"
+
+[[files]]
+file = "config/ftbquests/quests/lang/tr_tr/chapters/hostile_neural_networks.snbt"
+hash = "84e0ea01d190969fb467e9c38dae0a5593df53ad04c98a2f96ee1d99bf0cf205"
+
+[[files]]
+file = "config/ftbquests/quests/lang/tr_tr/chapters/mahou_tsukai.snbt"
+hash = "62f7e61ea9009a4c3ee24b47dc2905f08398050df8afe9b55f7f159b842aa7f0"
+
+[[files]]
+file = "config/ftbquests/quests/lang/tr_tr/chapters/mainquestline_part_1.snbt"
+hash = "58d906ccfa1ee1eb93fe3ba7bae7d11b0c585ee3715c3a3943e6aa8c697650e6"
+
+[[files]]
+file = "config/ftbquests/quests/lang/tr_tr/chapters/powah.snbt"
+hash = "97b025747d0a2fe0533b695991febf00371c448092a4197ae43c813ed7266e74"
+
+[[files]]
+file = "config/ftbquests/quests/lang/tr_tr/chapters/pylons.snbt"
+hash = "e47ee79ea7759316508f1822301c94349c7cb7bef6a8839ee153bf1c8b3dc9da"
+
+[[files]]
+file = "config/ftbquests/quests/lang/tr_tr/chapters/relics.snbt"
+hash = "af254264e6ac964a4385a7a51a6fcd2bfa328986bd2f608a8019ec0404d442b4"
+
+[[files]]
+file = "config/ftbquests/quests/lang/tr_tr/chapters/silent_gear.snbt"
+hash = "98a9544d5dfab33ab18af830c586d992e33e4c84c4a358c050757942711f32e0"
+
+[[files]]
+file = "config/ftbquests/quests/lang/tr_tr/chapters/storage.snbt"
+hash = "05d4625e16582ce521462f072ca9247de936d4b34eb1af8802dde743030c590c"
+
+[[files]]
+file = "config/ftbquests/quests/lang/tr_tr/chapters/tips_and_tricks.snbt"
+hash = "cd76e973b6bbe38b15445cc0178142e3348a07f023c952a36aec65d31e60d9cc"
+
+[[files]]
+file = "config/ftbquests/quests/lang/tr_tr/chapters/welcome.snbt"
+hash = "538e75fc8e9c9ca68633752d412a653a8c2464b2a714bd40a0a42a90d2d07adc"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapter.snbt"
+hash = "32db32ce7e7de10c94a66a2394e7f2b2dd5359dbc63ddfcfa64074ee2466d7c5"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapter_group.snbt"
+hash = "c1209183a446f740531651c50d74a43542be9171cfec3d648e468e5a4fa01247"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/achapter_2r_6the_atm_star.snbt"
+hash = "1826ffe675fce645e206250629b39937bfcde9a5c630520c40467bf4d9c94a20"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/allthemodium.snbt"
+hash = "1de7c929aa64fdf80028561a7f8e9120be0bf52526d6212657203e8d7b26042f"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/apotheosis_2.snbt"
+hash = "12da8a7d3ba958ff32f4b863ccd9adf29930538e6a52f67118ef6a2a427d8bc8"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/apothic_enchanting.snbt"
+hash = "8990624ddd4094d048394f78ca1ec24c7c43bb55345ba5a2d5d4fed3c7af5f1e"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/applied_energistics_2.snbt"
+hash = "8568277fe337a0be661c4331bf37110389429a00c5d96e74377e65294fdea9a8"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/ars_nouveau.snbt"
+hash = "0c40d53f36c6d5ebd44a21c88c6e3d3f155a48d832b3b194682d28975b089f5a"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/artifacts.snbt"
+hash = "e7bab862ec1c630787f24e3bf2d57bb02690795de021ea1acef4b07164490fc1"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/basic_armor.snbt"
+hash = "9fcb7081b4ac6a8c77955215ffff62784f39d0d206e8d793d7b35ca53dd53e8a"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/basic_logistics.snbt"
+hash = "20dce5d3912260a85b7931130fa63e5b385b0c8af57c18b92824e0cbaa11782b"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/basic_power.snbt"
+hash = "081cd7a72429d46a119491f54dd2d2bb39b6c0d87625a30f1dfd0090e10a6cf9"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/basic_tools.snbt"
+hash = "4fc587163bb2f9b23b29a3fff412a221433bc11dee063c7614366132afa25420"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/bounty_board.snbt"
+hash = "d27afe1bfdd7bb45666c85809e0a6fbec60961bca0c847b63b7e35dbb8270291"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/building_tips.snbt"
+hash = "fe3e50de8e29af570fd1a9e0ee1e960bea79ba7a36b05534fe51decd5c4b7556"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/bumblezone.snbt"
+hash = "d996908b1f76a1ddb3b510b4a98a5c8ad31e35c00f79e421a0dd5e142127676f"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/cataclysm.snbt"
+hash = "af933260e6e9b94111208fa24e0545d7c4a4307fb93987901d94fee0538b63c7"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/chapter_2_the_star.snbt"
+hash = "528082cbcf6c169004469e92e9139f5bc8fa6b2bc08504b60d6e4374b9d16951"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/create.snbt"
+hash = "58ec3e8cc7b311a9e17506d1c1eb71e40938de4224a2c1986c0313c6d51255f6"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/elmystical_agriculturerr.snbt"
+hash = "785ba2cbd957a770dad746954cbf07151b67066c5729133f4ae9e59e2e1b9214"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/eternal_starlight.snbt"
+hash = "f5e3c5fd3f1b57276bfc8c21734e64c2c5fdcf1088bc212642d0e52d86736754"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/evilcraft.snbt"
+hash = "6eaa582f31d4d4cb25b6bec63dcf7023e626b7f84b501f3d339475abaeb0ddd1"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/extreme_reactors.snbt"
+hash = "844354fd50288c25680d40ffabe39279242c511440692221c0e5d1cdb7e1c177"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/food_and_farming.snbt"
+hash = "ddb89639b413335541a0b13509b8c4ad9bc36e0976af146d26eb38f7d9bffe97"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/forbidden__arcanus.snbt"
+hash = "0d86b90664315d1d640598f0f8c06916bc88ea54869b4ac60bccad98698edd0b"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/generators.snbt"
+hash = "a88869a95f32b05515c26dcb8233b52484732c06aa00140909483ce955cea4f0"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/hostile_neural_networks.snbt"
+hash = "86ce22b9d993833dd71780805398854cefb8934bba2c3e2352012f7e6737216e"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/immersive_engineering.snbt"
+hash = "413633f5a760512c2b975e3ca2ef7f07c96a5a7f3f6751dc6c44c72b617f7caf"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/industrial_foregoing.snbt"
+hash = "1bf4c6608c9d8a3619bfb5ae25c4ede3c254919b9f4e096df136f225ca2713de"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/integrated_dynamics.snbt"
+hash = "dd8d7ffe153e3ff9a741f68b19131651d85edd43fc4aa754c2461efc3c595470"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/iron_spells_and_spellbooks.snbt"
+hash = "1bf23028d899295388e1f75abe4ea3b09cb4221e6160d1118372fab523cf2af3"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/justdirethings.snbt"
+hash = "08c91b0228e87bfeee6ba571afe23e28386d924e0588da04a8706f0510085a7b"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/mahou_tsukai.snbt"
+hash = "0df82b9acdb1e34a2e72c3ee177128bf04d40ba23924085b28dc35aee531f1ae"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/mainquestline_part_1.snbt"
+hash = "f078230d42290e9b2e8d139622d80d006d2b1900e07b5e311a3339f1b4908ad7"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/mekanism.snbt"
+hash = "a563470a3e800174333ffdc25df24c4ab51a20149724ce65e746eb8f9ff501c2"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/mekanism_reactors.snbt"
+hash = "66f992f5d852d4387d4ffcca40e501e92fc95803db9505d78c371180120fa1a0"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/modular_router.snbt"
+hash = "0f6692637bc4d88325a82809e30deb892c03f008f010a9027602a9f60f179fc7"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/natures_aura.snbt"
+hash = "132848ebbd21a56316974888cf1545ffeeceebe20d898e603246ed7b9c48dfa9"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/occultism.snbt"
+hash = "1cade3c4638980e78ee016821640207bb32e9305496350734eade264bc36ab08"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/oritech.snbt"
+hash = "051b1787ab73e6a38bcdbd922e0e69bd5be53633243233c118daff8daaf0934e"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/pneumaticcraft.snbt"
+hash = "87c598d821ca75bfb1d95eeebe9338917d5bcfb077b6bc85f1af02b02504fec5"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/powah.snbt"
+hash = "03bd8b1e81ebbde13a731b58a61658741eb961e1832f01f13adfb29da5a6b102"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/productive_bees.snbt"
+hash = "39670331cb540ec005e7ecf228f654db1cb58fe485407578206263c3e693dd0e"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/productive_trees.snbt"
+hash = "6e03fae1e864daf10e04e9f9504eecfac25628545192af30d518694555537476"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/pylons.snbt"
+hash = "980f6cdd858d7f58385ab7cba820d812b498fbbda10a0d2e266cd680b57e4aee"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/railcraft.snbt"
+hash = "08e20084cea344344837ef60968797734084c86960e4b9ddc6438b595c48c0d5"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/relics.snbt"
+hash = "8418339a0453a38d5424249b1ff80e76d7f2db5b8ccd18b085028ce2826b9dd7"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/rust_free_and_oiled.snbt"
+hash = "867c3de7bfa00781387d8185682cf72c65d43f9936f001a078f1fc5e035a8bf8"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/silent_gear.snbt"
+hash = "6de2bb5bbd4506a65190666ba46ab52a52a4302d7feff5529f66859a93dbb0de"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/steam_age.snbt"
+hash = "9eeeb38038369209794db2ea6fa3107861891049bd6c27ae2707d35525bc8485"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/storage.snbt"
+hash = "dbc55119e7ab8e8becb87b93b9292b3e4e6a1c695aa9edd86c89c9aca653ee63"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/the_electric_age.snbt"
+hash = "b1d1567a5ed44261fb85f7cb98871e0dd6920512eb806cf736f7c492bf63f442"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/theurgy.snbt"
+hash = "8d77bdde300e41ebcce254efdaa67e9416ae1d2075f29e04088eded8efeb0328"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/tips_and_tricks.snbt"
+hash = "f6875b4a9d2ea00dbc402a8b99575b3dff986505614a833f786b5a48bab22264"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/twilight_forest.snbt"
+hash = "e6d0fb8a5fbc6dd60bb70910d26509ff368b0b03bd8480cbe7446bc17fddb8bd"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/undergarden.snbt"
+hash = "a1e967f73e3f7eea9b8b2a13ca99094d9983d8991e4e1047a3104732657a7250"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/welcome.snbt"
+hash = "f5c80b2530ddd2fb86cb2047d7874a1d175d2264fb954baa986383a66c03aa44"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/chapters/xycraft.snbt"
+hash = "82bad91225e8a0ee3dbd96c1f6f0051b82b0d1a995e67d660fddf7f2ab18f5a1"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/file.snbt"
+hash = "45f6e2392554dee375c09f7941b4be99765cf2a931e317f920ab8be2d59fd85e"
+
+[[files]]
+file = "config/ftbquests/quests/lang/uk_ua/reward_table.snbt"
+hash = "f440a6c61439d628b065fafff2776e2cfd08d75a1d277e781ffd25472427631f"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/00E1FAFD0EF07752.snbt"
+hash = "c4dd224e27d6990225e42b30aa02b069f883aba1b3f192db7902d8758cd8f956"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/08F142CC52B97FF5.snbt"
+hash = "7a145a4893c7b2ed3d6f80e14ec6b8c15b774b38ec4691f2c8488351b518e18a"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/0C83C7A93ED80A36.snbt"
+hash = "16805f7fec7dd0667eb51076d93cbe1ffae8c264269cf62dd0538da68252e204"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/11204745E52B4C0C.snbt"
+hash = "53e9b22e387f60635d99ecbc0ac9fa5a5bb792d65594de85197ade35a3822369"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/1AE4A39086CA5564.snbt"
+hash = "39d884e93bf3543f364cda0ba235c9df9ecb9f9914073de03677c26824ed4adf"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/1DB1EEDA7B79672B.snbt"
+hash = "02e09e410001910e63d12457affb44249a8a78c34f532a1f7caea38fdd80aa36"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/1EC6956FA2BB2B00.snbt"
+hash = "b2787c769648d207280261bc24af19cd4d6160b9b4176acec1884fc092ea4b79"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/2B3CE3172F836885.snbt"
+hash = "7630946f6c30323d66a1f32327772e248c1dfde78553d918f56515fd9a8e48eb"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/3602F483568B92BA.snbt"
+hash = "9193bb7fa05d7930bbbb89d62b89b7a11609df3dd4ff9ee76fec1e4ce924b8c7"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/37F912BDB7C8E6B6.snbt"
+hash = "c72323e3a37538c569e1c608f71e400a56e7e61b62d743ca2b617237a28b466a"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/38EA3D35FF94DD47.snbt"
+hash = "5f5ecc42730e3640ea6b5f2e1761c2aa827d450a1d9a6a3052645ab0ccb5903b"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/3EFA2A65D70FADCC.snbt"
+hash = "71418d5925240e5037afab901a3e0645e9abea3c35c46c2f7a6bff2969fd6ac0"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/5832C9BCFDB476AF.snbt"
+hash = "66a92788b2ba7273728ace28119f691c6b66aea5ae5d7b28e289160fb111ef50"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/5958F7D688A0101D.snbt"
+hash = "19981f7ee364c61b355c505bd85eb1df096f3764d191a3c56ae2a128c9342d01"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/5F919CCD30D9E7F6.snbt"
+hash = "d5402d49e3c74e265cf4632fa3c8e15e67d889db5433534eb3635ac5dc313425"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/611A165B35847A5A.snbt"
+hash = "42c1ed3c3e3e96d9489b6dc22f56dc670114d0aefd89dbe36035c11631cbbf29"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/636C0F2A58AD8FC1.snbt"
+hash = "c11c086d0a32ade7253e501fd3e23f9284f835b5e48249748a388cb0e881065c"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/64E6D6A658988648.snbt"
+hash = "d8dee9f6cb75fc362cca6df9d9dd35e499c4890107f63667ec33c684d1d277a7"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/677C7D01E9C0064B.snbt"
+hash = "2f8422bbed0c89ccdafa58c9ebf4e279296e55060e87c1e29cb0c02e964a4875"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/74447919FD89521E.snbt"
+hash = "56d7a1763bcf230c6a8fdb021e9183eae833971e1e062e98172393fd719994a0"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/75FE7CDF68581EDE.snbt"
+hash = "c49939e8642e2fdc9ee3981e4325c6475a61d73d2f03922ad75e212e135cbfb5"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/7609CF2A167B45C8.snbt"
+hash = "66151fd4f2f86379e7c4e76f37b703b0ce8da869e1ab6bd90cf1bb336ffa4ef8"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/79C7738D7CEDABD4.snbt"
+hash = "601d17285f713968e038c36a868e1e9e8aa3c0f7869844252b4d5c0251fb1648"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/Tier1_Seed Bag.snbt"
+hash = "fa6676940c15ea37d9edfc035178ad7823651267d34dbbde59c121356f699a94"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/Tier2_Seed Bag.snbt"
+hash = "5d21eefc2c18a87cb9f90c9a2c1205a8da6677ed695903ce0adb2fcae272f753"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/ae2_basic_reward_table.snbt"
+hash = "21c00faab7fcea68c633d7e901e17a256ba62fceef2136d640b32931037dc21e"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/ae2_basic_rewards.snbt"
+hash = "060d7458c28072ef16a67c296b3e29c4bb4931aedb157240db1fea51d63936b7"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/amekanismr_dadvanced_loot_boxr.snbt"
+hash = "d45b7a14e5560ff50523a7e7e5bc624a9bb7ed8df3fd9e9c7794a12f94a63d17"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/common.snbt"
+hash = "93e5d8f0ce13b86f5054f71147cd6e014c2ffd14059dc8e3b6ed2b80f190ad5d"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/de_basic.snbt"
+hash = "61e86f7ed780dcbdafa6e8baba2b363709816208bbff0ac8d17fbee12f793585"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/de_basic_2.snbt"
+hash = "67b9deb87e421190bde92acf53248fdf939d3f14c26e5b247dcdbb5ac14b11b9"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/de_basic_3.snbt"
+hash = "d530a60844bb0dfc871e2fb40ef404a0449d03589f89f5e0f3c643ccc303c80c"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/de_basic_4.snbt"
+hash = "c0628385809e98e40c3161fcab7a2fc258d5c760a552a00b04ca3394b174b66c"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/epic.snbt"
+hash = "ba19a662b4ac7521d46833bca397e982dd2ed015c9bf9ece8eb550e2ab68aa0d"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/evilcraft_basic_reward.snbt"
+hash = "711acddf2dc055e788e16ee2b7f1ba9b25120e0b93d1aa4ecec9313bb43098b6"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/immersive_alloys.snbt"
+hash = "26f085ab7be8bc1985a7831a3d68c4d859c19b06bd9b68ccff9e46a49e69db50"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/immersive_blocks.snbt"
+hash = "3ee2d4e2b4b27aeb734846e491296a2774acb6cca3113c3370cc84debaa7d847"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/immersive_resources.snbt"
+hash = "9263a2e7d8f3811b87a70499ac4129550b4b93f3d645edc0677a68289e3ad9da"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/industrial_foregoing_advanced_bag.snbt"
+hash = "89e6365036d9eb43ce5035cd4f6b24e156bdddd701d470fe6699d12b2dbb2a78"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/industrial_foregoing_plastic_bag.snbt"
+hash = "2ab365ff46161096ee6f7567eee80fbc321436d0eede5961cec63292d4b39057"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/legendary.snbt"
+hash = "b84428f6223572a44261142a334b930b61d1cdea4e2933ae4a7d7d3148b65e8c"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/mahou.snbt"
+hash = "7753dfd5c9a72cbc37f2aca0161a1289bfe7686c7730ee8df39139d704d9d52b"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/mekanism.snbt"
+hash = "eaa7377ea83f969a0a579f30852db44451053fff90895344d07b5f2428a490bf"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/mythic.snbt"
+hash = "afce9d93abd248aeafb8559de5dfc19958b353b3c31c1f1dd9479c7447b4c4b3"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/pnc_advanced_rewards.snbt"
+hash = "8c6ee51fa071f3b4259061a8b23da70d03e169357232f573ca07712c379783c8"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/pnc_basic_rewards.snbt"
+hash = "801e3edf20b69585a311d3391073f9321c71bf9d3e873d2279aca3112f1363b2"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/pnc_pcb_rewards.snbt"
+hash = "9a7a9cb6c3118248364f60770efd36404c8dda110229592aa5a7b79fc44bf6d4"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/pnc_plastic_tier.snbt"
+hash = "079be106c9796724d036e06f1d118604824bb1f1501cfd1acfc4393bdc11484b"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/powah_basic_loot.snbt"
+hash = "988c6c0feb4e281f4302e3165641d24fc664c8a2347a76a47219400480a37fbd"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/powah_blazing.snbt"
+hash = "83cb1bb7557481923744477c0c3ba038e4d760e7de94238b99228a95995028dc"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/powah_hardened.snbt"
+hash = "8d0ed1cc5e9ed6d413c8b6d6b650182c3e1af69294bfdcad1a320d4480173216"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/powah_mats.snbt"
+hash = "c857c58f3c940db5516c385c81c2cf8587d314e54c28cae87ec63760b4eb48c6"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/powah_niotic.snbt"
+hash = "eee9dff1ccd0d89c91b1d6d92db3adb1ac24d2c72ecfe91e8db6337e2deb94ff"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/powah_nitro.snbt"
+hash = "4624aa4bd03f2b90467577a92bf8180a9d9bbaf01e6571aa16086f50e5505670"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/powah_orb.snbt"
+hash = "5b31013314815d1ea3d3cb4aed793ab24b327829d2d04360ce4f21e070d69bb5"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/powah_spirited.snbt"
+hash = "578ec52658df1dd9cd767f861c645fba49aa59e3f84f4085113b7c027c65a692"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/rare.snbt"
+hash = "3d3fef5bc8a32670bb70bc825f2431406febdfdd1b2c9e1790807fcfb0042e1b"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/rs_base_materials.snbt"
+hash = "a167955b4a7d75e0c0383c62a239ef48ccbf23b7ef645765eebc08239dca821b"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/rs_processors.snbt"
+hash = "fbd358457a72c6498f6a1e35486e7ba4c5ea181f266bc9cbf4926edaab153cd9"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/steam_age_reward_table.snbt"
+hash = "c965c3800d625cebb218f9d4a16061ac9088d747203b0e1be4b1b245c81e908b"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/uncommon.snbt"
+hash = "81e3b1ba9554be61acae77733610d819096171c4e57099467055449bb01e1f3f"
+
+[[files]]
 file = "config/ftbultimine-client.snbt"
 hash = "f4619aa7f0ba6a08b5738e238b9348deebc9cb6f38214bd86d06519f98d253bc"
 
